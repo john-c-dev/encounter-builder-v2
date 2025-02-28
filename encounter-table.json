@@ -1,0 +1,6406 @@
+{
+  "Arctic Encounters (Levels 1–4)": [
+    {
+      "range": "01",
+      "encounter": "1 giant owl"
+    },
+    {
+      "range": "02–05",
+      "encounter": "1d6 + 3 kobolds"
+    },
+    {
+      "range": "06–08",
+      "encounter": "1d4 + 3 trappers (commoners)"
+    },
+    {
+      "range": "09–10",
+      "encounter": "1 owl"
+    },
+    {
+      "range": "11–12",
+      "encounter": "2d4 blood hawks"
+    },
+    {
+      "range": "13–17",
+      "encounter": "2d6 bandits"
+    },
+    {
+      "range": "18–20",
+      "encounter": "1d3 winged kobolds with 1d6 kobolds"
+    },
+    {
+      "range": "21–25",
+      "encounter": "The partially eaten carcass of a mammoth, from which 1d4 weeks of rations can be harvested"
+    },
+    {
+      "range": "26–29",
+      "encounter": "2d8 hunters (tribal warriors)"
+    },
+    {
+      "range": "30–35",
+      "encounter": "1 half-ogre"
+    },
+    {
+      "range": "36–40",
+      "encounter": "Single-file tracks in the snow that stop abruptly"
+    },
+    {
+      "range": "41–45",
+      "encounter": "1d3 ice mephits"
+    },
+    {
+      "range": "46–50",
+      "encounter": "1 brown bear"
+    },
+    {
+      "range": "51–53",
+      "encounter": "1d6 + 1 orcs"
+    },
+    {
+      "range": "54–55",
+      "encounter": "1 polar bear"
+    },
+    {
+      "range": "56–57",
+      "encounter": "1d6 scouts"
+    },
+    {
+      "range": "58–60",
+      "encounter": "1 saber-toothed tiger"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A frozen pond with a jagged hole in the ice that appears recently made"
+    },
+    {
+      "range": "66–68",
+      "encounter": "1 berserker"
+    },
+    {
+      "range": "69–70",
+      "encounter": "1 ogre"
+    },
+    {
+      "range": "71–72",
+      "encounter": "1 griffon"
+    },
+    {
+      "range": "73–75",
+      "encounter": "1 druid"
+    },
+    {
+      "range": "76–80",
+      "encounter": "3d4 refugees (commoners) fleeing from orcs"
+    },
+    {
+      "range": "81",
+      "encounter": "1d3 veterans"
+    },
+    {
+      "range": "82",
+      "encounter": "1d4 orogs"
+    },
+    {
+      "range": "83",
+      "encounter": "2 brown bears"
+    },
+    {
+      "range": "84",
+      "encounter": "1 orc Eye of Gruumsh with 2d8 orcs"
+    },
+    {
+      "range": "85",
+      "encounter": "1d3 winter wolves"
+    },
+    {
+      "range": "86–87",
+      "encounter": "1d4 yetis"
+    },
+    {
+      "range": "88",
+      "encounter": "1 half-ogre"
+    },
+    {
+      "range": "89",
+      "encounter": "1d3 manticores"
+    },
+    {
+      "range": "90",
+      "encounter": "1 bandit captain with 2d6 bandits"
+    },
+    {
+      "range": "91",
+      "encounter": "1 revenant"
+    },
+    {
+      "range": "92–93",
+      "encounter": "1 troll"
+    },
+    {
+      "range": "94–95",
+      "encounter": "1 werebear"
+    },
+    {
+      "range": "96–97",
+      "encounter": "1 young remorhaz"
+    },
+    {
+      "range": "98",
+      "encounter": "1 mammoth"
+    },
+    {
+      "range": "99",
+      "encounter": "1 young white dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1 frost giant"
+    }
+  ],
+  "Arctic Encounters (Levels 5–10)": [
+    {
+      "range": "01–05",
+      "encounter": "2 saber-toothed tigers"
+    },
+    {
+      "range": "06–07",
+      "encounter": "1d4 half-ogres"
+    },
+    {
+      "range": "08–10",
+      "encounter": "1d3 + 1 brown bears"
+    },
+    {
+      "range": "11–15",
+      "encounter": "1d3 polar bears"
+    },
+    {
+      "range": "16–20",
+      "encounter": "2d4 berserkers"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A half-orc druid tending to an injured polar bear. If the characters assist the druid, she gives them a vial of antitoxin."
+    },
+    {
+      "range": "26–30",
+      "encounter": "2d8 scouts"
+    },
+    {
+      "range": "31–35",
+      "encounter": "2d4 ice mephits"
+    },
+    {
+      "range": "36–40",
+      "encounter": "2d6 + 1 zombies aboard a galleon trapped in the ice. Searching the ship yields 2d20 days of rations."
+    },
+    {
+      "range": "41–45",
+      "encounter": "1 manticore"
+    },
+    {
+      "range": "46–50",
+      "encounter": "2d6 + 3 orcs"
+    },
+    {
+      "range": "51–53",
+      "encounter": "1d6 + 2 ogres"
+    },
+    {
+      "range": "54–55",
+      "encounter": "2d4 griffons"
+    },
+    {
+      "range": "56–57",
+      "encounter": "1d4 veterans"
+    },
+    {
+      "range": "58–60",
+      "encounter": "1 bandit captain with 1 druid, 1d3 berserkers, and 2d10 + 5 bandits"
+    },
+    {
+      "range": "61–65",
+      "encounter": "1d4 hours of extreme cold (see chapter 5 of the Dungeon Master’s Guide)"
+    },
+    {
+      "range": "66–68",
+      "encounter": "1 young remorhaz"
+    },
+    {
+      "range": "69–72",
+      "encounter": "1 orc Eye of Gruumsh with 1d6 orogs and 2d8 + 6 orcs"
+    },
+    {
+      "range": "73–75",
+      "encounter": "1 revenant"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A howl that echoes over the land for 1d3 minutes"
+    },
+    {
+      "range": "81–82",
+      "encounter": "1d3 mammoths"
+    },
+    {
+      "range": "83–84",
+      "encounter": "1 young white dragon"
+    },
+    {
+      "range": "85–86",
+      "encounter": "2d4 winter wolves"
+    },
+    {
+      "range": "87–88",
+      "encounter": "1d6 + 2 yetis"
+    },
+    {
+      "range": "89–90",
+      "encounter": "1d2 frost giants"
+    },
+    {
+      "range": "91–92",
+      "encounter": "1d3 werebears"
+    },
+    {
+      "range": "93–94",
+      "encounter": "1d4 trolls"
+    },
+    {
+      "range": "95–96",
+      "encounter": "1 abominable yeti"
+    },
+    {
+      "range": "97–98",
+      "encounter": "1 remorhaz"
+    },
+    {
+      "range": "99",
+      "encounter": "1 roc"
+    },
+    {
+      "range": "00",
+      "encounter": "2d4 young remorhazes"
+    }
+  ],
+  "Arctic Encounters (Levels 11–16)": [
+    {
+      "range": "01",
+      "encounter": "1 abominable yeti"
+    },
+    {
+      "range": "02–04",
+      "encounter": "1d6 revenants"
+    },
+    {
+      "range": "05–10",
+      "encounter": "1d4 + 1 werebears"
+    },
+    {
+      "range": "11–20",
+      "encounter": "1d3 young white dragons"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A blizzard that reduces visibility to 5 feet for 1d6 hours"
+    },
+    {
+      "range": "26–35",
+      "encounter": "1 roc"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A herd of 3d20 + 60 caribou (deer) moving through the snow"
+    },
+    {
+      "range": "41–50",
+      "encounter": "1d4 mammoths"
+    },
+    {
+      "range": "51–60",
+      "encounter": "1d8 + 1 trolls"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A mile-wide frozen lake in which the preserved corpses of strange creatures can be seen"
+    },
+    {
+      "range": "66–75",
+      "encounter": "2d4 young remorhazes"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A crumbling ice castle littered with the frozen bodies of blue-skinned humanoids"
+    },
+    {
+      "range": "81–90",
+      "encounter": "1 adult white dragon"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1d8 + 1 frost giants"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1d4 remorhazes"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient white dragon"
+    }
+  ],
+  "Arctic Encounters (Levels 17–20)": [
+    {
+      "range": "01–02",
+      "encounter": "2d10 revenants"
+    },
+    {
+      "range": "03–04",
+      "encounter": "2d8 trolls"
+    },
+    {
+      "range": "05–06",
+      "encounter": "2d10 werebears"
+    },
+    {
+      "range": "07–08",
+      "encounter": "1 frost giant"
+    },
+    {
+      "range": "09–10",
+      "encounter": "2d4 young remorhazes"
+    },
+    {
+      "range": "11–20",
+      "encounter": "1d4 frost giants"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A circular patch of black ice on the ground. The air temperature around the patch is warmer than in the surrounding area, and characters who inspect the ice find bits of machinery frozen within."
+    },
+    {
+      "range": "26–35",
+      "encounter": "1 ancient white dragon"
+    },
+    {
+      "range": "36–40",
+      "encounter": "An adventurer frozen 6 feet under the ice; 50% chance the corpse has a rare magic item of the DM’s choice"
+    },
+    {
+      "range": "41–50",
+      "encounter": "1d3 abominable yetis"
+    },
+    {
+      "range": "51–60",
+      "encounter": "1d4 remorhazes"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A 500-foot-high wall of ice that is 300 feet thick and spread across 1d4 miles"
+    },
+    {
+      "range": "66–75",
+      "encounter": "1d4 rocs"
+    },
+    {
+      "range": "76–80",
+      "encounter": "The likeness of a stern woman with long, flowing hair, carved into the side of a mountain"
+    },
+    {
+      "range": "81–90",
+      "encounter": "1d10 frost giants with 2d4 polar bears"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1d3 adult white dragons"
+    },
+    {
+      "range": "97–99",
+      "encounter": "2d4 abominable yetis"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient white dragon with 1d3 young white dragons"
+    }
+  ],
+  "Coastal Encounters (Levels 1–4)": [
+    {
+      "range": "01",
+      "encounter": "1 pseudodragon"
+    },
+    {
+      "range": "02–05",
+      "encounter": "2d8 crabs"
+    },
+    {
+      "range": "06–10",
+      "encounter": "2d6 fishers (commoners)"
+    },
+    {
+      "range": "11",
+      "encounter": "1d3 poisonous snakes"
+    },
+    {
+      "range": "12–13",
+      "encounter": "1d6 guards protecting a stranded noble"
+    },
+    {
+      "range": "14–15",
+      "encounter": "2d4 scouts"
+    },
+    {
+      "range": "16–18",
+      "encounter": "2d10 merfolk"
+    },
+    {
+      "range": "19–20",
+      "encounter": "1d6 + 2 sahuagin"
+    },
+    {
+      "range": "21–25",
+      "encounter": "1d4 ghouls feeding on corpses aboard the wreckage of a merchant ship. A search uncovers 2d6 bolts of ruined silk, a 50-foot length of rope, and a barrel of salted herring."
+    },
+    {
+      "range": "26–27",
+      "encounter": "1d4 winged kobolds with 1d6 + 1 kobolds"
+    },
+    {
+      "range": "28–29",
+      "encounter": "2d6 tribal warriors"
+    },
+    {
+      "range": "30–31",
+      "encounter": "3d4 kobolds"
+    },
+    {
+      "range": "32–33",
+      "encounter": "2d4 + 5 blood hawks"
+    },
+    {
+      "range": "34–35",
+      "encounter": "1d8 + 1 pteranodons"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A few dozen baby turtles struggling to make their way to the sea"
+    },
+    {
+      "range": "41–42",
+      "encounter": "1d6 + 2 giant lizards"
+    },
+    {
+      "range": "43–44",
+      "encounter": "1d6 + 4 giant crabs"
+    },
+    {
+      "range": "45–46",
+      "encounter": "2d4 stirges"
+    },
+    {
+      "range": "47–48",
+      "encounter": "2d6 + 3 bandits"
+    },
+    {
+      "range": "49–53",
+      "encounter": "2d4 sahuagin"
+    },
+    {
+      "range": "54–55",
+      "encounter": "1d6 + 2 scouts"
+    },
+    {
+      "range": "56–60",
+      "encounter": "1 sea hag"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A momentary formation in the waves that looks like an enormous humanoid face"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1 druid"
+    },
+    {
+      "range": "71–75",
+      "encounter": "1d4 harpies"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A lone hermit (acolyte) sitting on the beach, contemplating the meaning of the multiverse"
+    },
+    {
+      "range": "81",
+      "encounter": "1d4 berserkers"
+    },
+    {
+      "range": "82",
+      "encounter": "1d6 giant eagles"
+    },
+    {
+      "range": "83",
+      "encounter": "2d4 giant toads"
+    },
+    {
+      "range": "84",
+      "encounter": "1d4 ogres or 1d4 merrow"
+    },
+    {
+      "range": "85",
+      "encounter": "3d6 sahuagin"
+    },
+    {
+      "range": "86",
+      "encounter": "1d4 veterans"
+    },
+    {
+      "range": "87",
+      "encounter": "1d2 plesiosauruses"
+    },
+    {
+      "range": "88",
+      "encounter": "1 bandit captain with 2d6 bandits"
+    },
+    {
+      "range": "89",
+      "encounter": "1d3 manticores"
+    },
+    {
+      "range": "90",
+      "encounter": "1 banshee"
+    },
+    {
+      "range": "91–92",
+      "encounter": "1d4 + 3 griffons"
+    },
+    {
+      "range": "93–94",
+      "encounter": "1 sahuagin priestess with 1d3 merrow and 2d6 sahuagin"
+    },
+    {
+      "range": "95–96",
+      "encounter": "1 sahuagin baron"
+    },
+    {
+      "range": "97–98",
+      "encounter": "1 water elemental"
+    },
+    {
+      "range": "99",
+      "encounter": "1 cyclops"
+    },
+    {
+      "range": "00",
+      "encounter": "1 young bronze dragon"
+    }
+  ],
+  "Coastal Encounters (Levels 5–10)": [
+    {
+      "range": "01",
+      "encounter": "2d8 giant wolf spiders"
+    },
+    {
+      "range": "02–03",
+      "encounter": "3d6 pteranodons"
+    },
+    {
+      "range": "04–05",
+      "encounter": "2d4 scouts"
+    },
+    {
+      "range": "06–07",
+      "encounter": "1d6 + 2 sahuagin"
+    },
+    {
+      "range": "08",
+      "encounter": "1 sea hag"
+    },
+    {
+      "range": "09–10",
+      "encounter": "1d4 + 1 giant toads"
+    },
+    {
+      "range": "11–15",
+      "encounter": "3d6 sahuagin"
+    },
+    {
+      "range": "16–20",
+      "encounter": "2d6 giant eagles"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A pseudodragon chasing gulls through the air"
+    },
+    {
+      "range": "26–29",
+      "encounter": "1d2 druids"
+    },
+    {
+      "range": "30–32",
+      "encounter": "2d4 + 1 giant toads"
+    },
+    {
+      "range": "33–35",
+      "encounter": "1 commoner singing a dirge (day only) or\n1 banshee (night only)"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A stoppered bottle containing an illegible note and half buried in the sand"
+    },
+    {
+      "range": "41–43",
+      "encounter": "3 sea hags"
+    },
+    {
+      "range": "44–46",
+      "encounter": "1d8 + 1 harpies"
+    },
+    {
+      "range": "47–50",
+      "encounter": "1d4 plesiosauruses"
+    },
+    {
+      "range": "51–53",
+      "encounter": "1d4 manticores"
+    },
+    {
+      "range": "54–56",
+      "encounter": "2d4 ogres"
+    },
+    {
+      "range": "57–60",
+      "encounter": "1d10 griffons"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A battle at sea between two galleons"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1d4 + 3 merrow"
+    },
+    {
+      "range": "71–75",
+      "encounter": "A pirate crew consisting of 1 bandit captain, 1 druid, 2 berserkers, and 2d12 bandits, all searching for buried treasure"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A severed humanoid hand tangled in a net"
+    },
+    {
+      "range": "81–82",
+      "encounter": "1 water elemental"
+    },
+    {
+      "range": "83–84",
+      "encounter": "1 cyclops"
+    },
+    {
+      "range": "85–86",
+      "encounter": "1d4 banshees (night only)"
+    },
+    {
+      "range": "87–88",
+      "encounter": "2d4 veterans"
+    },
+    {
+      "range": "89–90",
+      "encounter": "1 young bronze dragon"
+    },
+    {
+      "range": "91–93",
+      "encounter": "1d3 cyclopes"
+    },
+    {
+      "range": "94–95",
+      "encounter": "1 young blue dragon"
+    },
+    {
+      "range": "96",
+      "encounter": "1 sahuagin baron with 1d3 sahuagin priestesses and 2d8 sahuagin"
+    },
+    {
+      "range": "97",
+      "encounter": "1 djinni"
+    },
+    {
+      "range": "98",
+      "encounter": "1 roc"
+    },
+    {
+      "range": "99",
+      "encounter": "1 marid"
+    },
+    {
+      "range": "00",
+      "encounter": "1 storm giant"
+    }
+  ],
+  "Coastal Encounters (Levels 11–16)": [
+    {
+      "range": "01",
+      "encounter": "1d4 banshees (night only)"
+    },
+    {
+      "range": "02–04",
+      "encounter": "1 cyclops"
+    },
+    {
+      "range": "05–08",
+      "encounter": "1d6 + 2 manticores"
+    },
+    {
+      "range": "09–10",
+      "encounter": "1d8 + 2 veterans"
+    },
+    {
+      "range": "11–20",
+      "encounter": "1 young blue dragon"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A nest of 1d6 dragon turtle eggs"
+    },
+    {
+      "range": "26–35",
+      "encounter": "1d4 sahuagin barons"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A trident partially buried in the sand"
+    },
+    {
+      "range": "41–50",
+      "encounter": "1 young bronze dragon"
+    },
+    {
+      "range": "51–55",
+      "encounter": "1 marid"
+    },
+    {
+      "range": "56–60",
+      "encounter": "1d6 water elementals"
+    },
+    {
+      "range": "61–65",
+      "encounter": "2d6 ghasts crawling over 1d6 wrecked ships and feeding on the dead"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1 djinni"
+    },
+    {
+      "range": "71–75",
+      "encounter": "1d3 young bronze dragons"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A beached whale, dead and bloated. If it takes any damage, it explodes, and each creature within 30 feet of it must make a DC 15 Dexterity saving throw, taking 5d6 bludgeoning damage on a failed save, or half as much damage on a successful one."
+    },
+    {
+      "range": "81–82",
+      "encounter": "2d4 cyclopes"
+    },
+    {
+      "range": "83–84",
+      "encounter": "1 storm giant"
+    },
+    {
+      "range": "85–86",
+      "encounter": "1d3 young blue dragons"
+    },
+    {
+      "range": "87–88",
+      "encounter": "1 adult bronze dragon"
+    },
+    {
+      "range": "89–90",
+      "encounter": "1 adult blue dragon"
+    },
+    {
+      "range": "91–93",
+      "encounter": "1d3 rocs"
+    },
+    {
+      "range": "94–97",
+      "encounter": "1 dragon turtle"
+    },
+    {
+      "range": "98–99",
+      "encounter": "1 ancient bronze dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient blue dragon"
+    }
+  ],
+  "Coastal Encounters (Levels 17–20)": [
+    {
+      "range": "01–10",
+      "encounter": "1 roc"
+    },
+    {
+      "range": "11–20",
+      "encounter": "1 storm giant"
+    },
+    {
+      "range": "21–25",
+      "encounter": "An adult bronze dragon fighting an adult blue dragon to the death"
+    },
+    {
+      "range": "26–40",
+      "encounter": "2d6 cyclopes"
+    },
+    {
+      "range": "41–50",
+      "encounter": "1 adult bronze dragon or 1 adult blue dragon"
+    },
+    {
+      "range": "51–60",
+      "encounter": "1d3 djinn or 1d3 marids"
+    },
+    {
+      "range": "61–70",
+      "encounter": "1 dragon turtle"
+    },
+    {
+      "range": "71–75",
+      "encounter": "1d3 rocs"
+    },
+    {
+      "range": "76–80",
+      "encounter": "1d6 + 2 waterspouts that dance on the water before stopping abruptly"
+    },
+    {
+      "range": "81–90",
+      "encounter": "1d6 young blue dragons"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1 ancient bronze dragon"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1 ancient blue dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1d3 + 1 storm giants"
+    }
+  ],
+  "Desert Encounters (Levels 1–4)": [
+    {
+      "range": "01",
+      "encounter": "3d8 scorpions"
+    },
+    {
+      "range": "02",
+      "encounter": "2d4 vultures"
+    },
+    {
+      "range": "03",
+      "encounter": "1 abandoned mule"
+    },
+    {
+      "range": "04",
+      "encounter": "2d6 commoners with 2d4 camels bound for a distant city"
+    },
+    {
+      "range": "05",
+      "encounter": "1d6 flying snakes"
+    },
+    {
+      "range": "06",
+      "encounter": "2d6 hyenas or 2d6 jackals"
+    },
+    {
+      "range": "07",
+      "encounter": "1d6 guards escorting a noble to the edge of the desert, all of them astride camels"
+    },
+    {
+      "range": "08",
+      "encounter": "1d6 cats"
+    },
+    {
+      "range": "09",
+      "encounter": "1 pseudodragon"
+    },
+    {
+      "range": "10",
+      "encounter": "1d4 poisonous snakes"
+    },
+    {
+      "range": "11–13",
+      "encounter": "2d4 stirges"
+    },
+    {
+      "range": "14–15",
+      "encounter": "1d6 + 2 giant wolf spiders"
+    },
+    {
+      "range": "16–17",
+      "encounter": "1 scout"
+    },
+    {
+      "range": "18–20",
+      "encounter": "2d4 giant poisonous snakes"
+    },
+    {
+      "range": "21–25",
+      "encounter": "Single-file tracks marching deeper into the desert"
+    },
+    {
+      "range": "26–27",
+      "encounter": "4d4 kobolds"
+    },
+    {
+      "range": "28–29",
+      "encounter": "1 jackalwere"
+    },
+    {
+      "range": "30–31",
+      "encounter": "3d6 tribal warriors"
+    },
+    {
+      "range": "32–33",
+      "encounter": "1d6 giant lizards"
+    },
+    {
+      "range": "34–35",
+      "encounter": "1 swarm of insects"
+    },
+    {
+      "range": "36–40",
+      "encounter": "An oasis surrounded by palm trees and containing the remnants of an old camp"
+    },
+    {
+      "range": "41–44",
+      "encounter": "3d6 bandits"
+    },
+    {
+      "range": "45–46",
+      "encounter": "1d4 constrictor snakes"
+    },
+    {
+      "range": "47–48",
+      "encounter": "2d4 winged kobolds"
+    },
+    {
+      "range": "49–50",
+      "encounter": "1 dust mephit"
+    },
+    {
+      "range": "51–52",
+      "encounter": "1d3 + 1 giant toads"
+    },
+    {
+      "range": "53–54",
+      "encounter": "1d4 giant spiders"
+    },
+    {
+      "range": "55",
+      "encounter": "1 druid"
+    },
+    {
+      "range": "56–57",
+      "encounter": "2d4 hobgoblins"
+    },
+    {
+      "range": "58",
+      "encounter": "1 wight"
+    },
+    {
+      "range": "59–60",
+      "encounter": "1 ogre"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A brass lamp lying on the ground"
+    },
+    {
+      "range": "66–67",
+      "encounter": "1d4 giant vultures"
+    },
+    {
+      "range": "68",
+      "encounter": "1 phase spider"
+    },
+    {
+      "range": "69",
+      "encounter": "1 giant constrictor snake"
+    },
+    {
+      "range": "70–71",
+      "encounter": "1 gnoll pack lord with 1d3 giant hyenas"
+    },
+    {
+      "range": "72",
+      "encounter": "1d6 + 2 gnolls"
+    },
+    {
+      "range": "73–74",
+      "encounter": "1 mummy"
+    },
+    {
+      "range": "75",
+      "encounter": "1d3 half-ogres"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A pile of humanoid bones wrapped in rotting cloth"
+    },
+    {
+      "range": "81–82",
+      "encounter": "1 lamia"
+    },
+    {
+      "range": "83",
+      "encounter": "1 hobgoblin captain with 2d6 hobgoblins"
+    },
+    {
+      "range": "84",
+      "encounter": "2d4 death dogs"
+    },
+    {
+      "range": "85–86",
+      "encounter": "1d4 giant scorpions"
+    },
+    {
+      "range": "87",
+      "encounter": "1 yuan-ti malison with 1d4 + 1 yuan-ti purebloods"
+    },
+    {
+      "range": "88–89",
+      "encounter": "1 bandit captain with 1 druid and 3d6 bandits"
+    },
+    {
+      "range": "90",
+      "encounter": "2d4 thri-kreen"
+    },
+    {
+      "range": "91",
+      "encounter": "1 air elemental"
+    },
+    {
+      "range": "92",
+      "encounter": "1d3 couatls"
+    },
+    {
+      "range": "93",
+      "encounter": "1 fire elemental"
+    },
+    {
+      "range": "94",
+      "encounter": "1d4 gnoll fangs of Yeenoghu"
+    },
+    {
+      "range": "95",
+      "encounter": "1 revenant"
+    },
+    {
+      "range": "96",
+      "encounter": "1d4 weretigers"
+    },
+    {
+      "range": "97",
+      "encounter": "1 cyclops"
+    },
+    {
+      "range": "98",
+      "encounter": "1 young brass dragon"
+    },
+    {
+      "range": "99",
+      "encounter": "1 medusa"
+    },
+    {
+      "range": "00",
+      "encounter": "1 yuan-ti abomination"
+    }
+  ],
+  "Desert Encounters (Levels 5–10)": [
+    {
+      "range": "01",
+      "encounter": "1d6 scouts"
+    },
+    {
+      "range": "02",
+      "encounter": "2d4 jackalweres"
+    },
+    {
+      "range": "03",
+      "encounter": "2d6 hobgoblins"
+    },
+    {
+      "range": "04",
+      "encounter": "1d4 + 3 dust mephits"
+    },
+    {
+      "range": "05",
+      "encounter": "1d6 swarms of insects"
+    },
+    {
+      "range": "06",
+      "encounter": "1 giant constrictor snake"
+    },
+    {
+      "range": "07–08",
+      "encounter": "1 lion"
+    },
+    {
+      "range": "09–10",
+      "encounter": "2d4 gnolls"
+    },
+    {
+      "range": "11–12",
+      "encounter": "2d6 giant toads"
+    },
+    {
+      "range": "13–17",
+      "encounter": "1 mummy"
+    },
+    {
+      "range": "18–20",
+      "encounter": "1d8 + 1 giant vultures"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A stone obelisk partly buried in the sand"
+    },
+    {
+      "range": "26–28",
+      "encounter": "1 ogre with 1d3 half-ogres"
+    },
+    {
+      "range": "29–35",
+      "encounter": "1d10 giant hyenas"
+    },
+    {
+      "range": "36–40",
+      "encounter": "1d6 + 1 empty tents"
+    },
+    {
+      "range": "41–43",
+      "encounter": "1d6 + 2 thri-kreen"
+    },
+    {
+      "range": "44–46",
+      "encounter": "2d4 yuan-ti purebloods"
+    },
+    {
+      "range": "47–50",
+      "encounter": "1d6 + 3 death dogs"
+    },
+    {
+      "range": "51–52",
+      "encounter": "1d4 giant scorpions"
+    },
+    {
+      "range": "53",
+      "encounter": "1 fire elemental"
+    },
+    {
+      "range": "54–55",
+      "encounter": "1 hobgoblin captain with 3d4 hobgoblins"
+    },
+    {
+      "range": "56",
+      "encounter": "1d6 + 2 ogres"
+    },
+    {
+      "range": "57–58",
+      "encounter": "1d4 lamias"
+    },
+    {
+      "range": "59–60",
+      "encounter": "1 air elemental"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A meteorite resting at the bottom of a glassy crater"
+    },
+    {
+      "range": "66",
+      "encounter": "1d4 + 1 wights"
+    },
+    {
+      "range": "67–68",
+      "encounter": "1 young brass dragon"
+    },
+    {
+      "range": "69–70",
+      "encounter": "1 bandit captain with 1d3 berserkers and 3d6 bandits"
+    },
+    {
+      "range": "71–72",
+      "encounter": "1 cyclops"
+    },
+    {
+      "range": "73",
+      "encounter": "1d4 couatls"
+    },
+    {
+      "range": "74–75",
+      "encounter": "1d4 yuan-ti malisons"
+    },
+    {
+      "range": "76–80",
+      "encounter": "Strong winds that kick up dust and reduce visibility to 1d6 feet for 1d4 hours"
+    },
+    {
+      "range": "81–83",
+      "encounter": "1 revenant with 1d3 wights"
+    },
+    {
+      "range": "84–85",
+      "encounter": "1d8 + 1 phase spiders"
+    },
+    {
+      "range": "86–87",
+      "encounter": "1d6 + 2 weretigers"
+    },
+    {
+      "range": "88–90",
+      "encounter": "2d4 gnoll fangs of Yeenoghu"
+    },
+    {
+      "range": "91",
+      "encounter": "1 young blue dragon"
+    },
+    {
+      "range": "92",
+      "encounter": "1d4 cyclopes"
+    },
+    {
+      "range": "93",
+      "encounter": "1d3 yuan-ti abominations"
+    },
+    {
+      "range": "94",
+      "encounter": "1d4 medusas"
+    },
+    {
+      "range": "95",
+      "encounter": "1 guardian naga"
+    },
+    {
+      "range": "96",
+      "encounter": "1d3 young brass dragons"
+    },
+    {
+      "range": "97",
+      "encounter": "1 efreeti"
+    },
+    {
+      "range": "98",
+      "encounter": "1 roc"
+    },
+    {
+      "range": "99",
+      "encounter": "1 gynosphinx"
+    },
+    {
+      "range": "00",
+      "encounter": "1 adult brass dragon"
+    }
+  ],
+  "Desert Encounters (Levels 11–16)": [
+    {
+      "range": "01",
+      "encounter": "1 young brass dragon"
+    },
+    {
+      "range": "02–05",
+      "encounter": "4d6 gnolls"
+    },
+    {
+      "range": "06–10",
+      "encounter": "3d10 giant hyenas"
+    },
+    {
+      "range": "11–12",
+      "encounter": "1d8 + 1 lamias"
+    },
+    {
+      "range": "13–14",
+      "encounter": "2d4 gnoll fangs of Yeenoghu"
+    },
+    {
+      "range": "15–17",
+      "encounter": "1d6 + 2 giant scorpions"
+    },
+    {
+      "range": "18–20",
+      "encounter": "2d4 phase spiders"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A desert caravan consisting of 1d6 merchants (nobles) with 2d6 guards"
+    },
+    {
+      "range": "26–27",
+      "encounter": "1d6 + 1 couatls"
+    },
+    {
+      "range": "28–30",
+      "encounter": "1d4 fire elementals"
+    },
+    {
+      "range": "31–32",
+      "encounter": "1 hobgoblin captain with 3d10 + 10 hobgoblins"
+    },
+    {
+      "range": "33–35",
+      "encounter": "2d4 wights"
+    },
+    {
+      "range": "36–40",
+      "encounter": "1d6 square miles of desert glass"
+    },
+    {
+      "range": "41–42",
+      "encounter": "1 young blue dragon"
+    },
+    {
+      "range": "43–45",
+      "encounter": "1d6 + 2 weretigers"
+    },
+    {
+      "range": "46–48",
+      "encounter": "1d4 air elementals"
+    },
+    {
+      "range": "49–50",
+      "encounter": "1d6 + 1 yuan-ti malisons"
+    },
+    {
+      "range": "51–55",
+      "encounter": "1d4 medusas"
+    },
+    {
+      "range": "56–60",
+      "encounter": "1d4 revenants with 3d12 skeletons"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A plundered pyramid"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1d4 young brass dragons"
+    },
+    {
+      "range": "71–75",
+      "encounter": "1d3 yuan-ti abominations"
+    },
+    {
+      "range": "76–78",
+      "encounter": "1d6 + 2 cyclopes"
+    },
+    {
+      "range": "79–82",
+      "encounter": "1 adult brass dragon"
+    },
+    {
+      "range": "83–85",
+      "encounter": "1 purple worm"
+    },
+    {
+      "range": "86",
+      "encounter": "1d2 young blue dragons"
+    },
+    {
+      "range": "87–88",
+      "encounter": "1 mummy lord"
+    },
+    {
+      "range": "89",
+      "encounter": "1d3 guardian nagas"
+    },
+    {
+      "range": "90",
+      "encounter": "1 adult blue dragon"
+    },
+    {
+      "range": "91",
+      "encounter": "1d2 gynosphinxes"
+    },
+    {
+      "range": "92–93",
+      "encounter": "1d3 efreet"
+    },
+    {
+      "range": "94",
+      "encounter": "1 androsphinx"
+    },
+    {
+      "range": "95",
+      "encounter": "1d4 rocs"
+    },
+    {
+      "range": "96–97",
+      "encounter": "1 adult blue dracolich"
+    },
+    {
+      "range": "98–99",
+      "encounter": "1 ancient brass dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient blue dragon"
+    }
+  ],
+  "Desert Encounters (Levels 17–20)": [
+    {
+      "range": "01–05",
+      "encounter": "1 adult brass dragon"
+    },
+    {
+      "range": "06–10",
+      "encounter": "1d2 yuan-ti abominations with 2d10 + 5 yuan-ti malisons and 4d6 + 6 yuan-ti purebloods"
+    },
+    {
+      "range": "11–14",
+      "encounter": "1d6 + 2 medusas"
+    },
+    {
+      "range": "15–18",
+      "encounter": "1d2 purple worms"
+    },
+    {
+      "range": "19–22",
+      "encounter": "2d4 cyclopes"
+    },
+    {
+      "range": "23–25",
+      "encounter": "An abandoned city made from white marble, empty during the day. At night, harmless apparitions roam the streets, replaying the final moments of their lives."
+    },
+    {
+      "range": "26–30",
+      "encounter": "1d3 young blue dragons"
+    },
+    {
+      "range": "31–35",
+      "encounter": "1 mummy lord"
+    },
+    {
+      "range": "36–40",
+      "encounter": "1d4 hours of extreme heat (see chapter 5 of the Dungeon Master’s Guide)"
+    },
+    {
+      "range": "41–50",
+      "encounter": "1d3 guardian nagas"
+    },
+    {
+      "range": "51–60",
+      "encounter": "1d4 efreet"
+    },
+    {
+      "range": "61–63",
+      "encounter": "An old signpost identifying a single destination, called Pazar"
+    },
+    {
+      "range": "64–72",
+      "encounter": "1d4 rocs"
+    },
+    {
+      "range": "73–80",
+      "encounter": "1d3 gynosphinxes"
+    },
+    {
+      "range": "81–85",
+      "encounter": "1 adult blue dracolich"
+    },
+    {
+      "range": "86–90",
+      "encounter": "1 androsphinx"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1 ancient brass dragon"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1 ancient blue dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1d4 adult brass dragons"
+    }
+  ],
+  "Forest Encounters (Levels 1–4)": [
+    {
+      "range": "01",
+      "encounter": "1 giant owl"
+    },
+    {
+      "range": "02",
+      "encounter": "1d4 cats"
+    },
+    {
+      "range": "03",
+      "encounter": "2d4 woodcutters (commoners)"
+    },
+    {
+      "range": "04",
+      "encounter": "1 badger or 1d4 poisonous snakes"
+    },
+    {
+      "range": "05",
+      "encounter": "2d8 baboons"
+    },
+    {
+      "range": "06",
+      "encounter": "1d6 + 3 hyenas"
+    },
+    {
+      "range": "07",
+      "encounter": "1 owl"
+    },
+    {
+      "range": "08",
+      "encounter": "1 pseudodragon"
+    },
+    {
+      "range": "09",
+      "encounter": "1 panther"
+    },
+    {
+      "range": "10",
+      "encounter": "1 giant poisonous snake"
+    },
+    {
+      "range": "11",
+      "encounter": "1d6 + 2 boars"
+    },
+    {
+      "range": "12",
+      "encounter": "1d4 + 1 giant lizards"
+    },
+    {
+      "range": "13",
+      "encounter": "1 ape or 1 tiger"
+    },
+    {
+      "range": "14",
+      "encounter": "2d6 tribal warriors with 1d6 mastiffs"
+    },
+    {
+      "range": "15",
+      "encounter": "1d6 + 2 giant bats or 3d6 flying snakes"
+    },
+    {
+      "range": "16",
+      "encounter": "1 scout or 2d4 guards with 1d8 mastiffs"
+    },
+    {
+      "range": "17",
+      "encounter": "1d8 + 1 winged kobolds"
+    },
+    {
+      "range": "18",
+      "encounter": "1d3 constrictor snakes"
+    },
+    {
+      "range": "19",
+      "encounter": "1d10 + 5 giant rats or 2d6 + 3 giant weasels"
+    },
+    {
+      "range": "20",
+      "encounter": "1d4 + 1 needle blights with 1d6 + 3 twig blights"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A lost, weeping child. If the characters take the child home, the parents reward them with 1d3 potions of healing."
+    },
+    {
+      "range": "26",
+      "encounter": "1d8 + 1 giant frogs"
+    },
+    {
+      "range": "27",
+      "encounter": "4d4 kobolds"
+    },
+    {
+      "range": "28",
+      "encounter": "1d3 black bears"
+    },
+    {
+      "range": "29",
+      "encounter": "3d6 stirges"
+    },
+    {
+      "range": "30",
+      "encounter": "1 satyr"
+    },
+    {
+      "range": "31",
+      "encounter": "2d4 kenku"
+    },
+    {
+      "range": "32",
+      "encounter": "1d3 vine blights with 1d12 awakened shrubs"
+    },
+    {
+      "range": "33",
+      "encounter": "1d4 swarms of ravens"
+    },
+    {
+      "range": "34",
+      "encounter": "1 faerie dragon (yellow or younger)"
+    },
+    {
+      "range": "35",
+      "encounter": "1d4 + 2 giant badgers"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A young woodcutter (scout) racing through the forest to rescue a lost friend"
+    },
+    {
+      "range": "41",
+      "encounter": "2d4 blink dogs"
+    },
+    {
+      "range": "42",
+      "encounter": "1d8 + 1 sprites"
+    },
+    {
+      "range": "43",
+      "encounter": "1d6 + 2 elk"
+    },
+    {
+      "range": "44",
+      "encounter": "1d4 lizardfolk or 3d6 bandits"
+    },
+    {
+      "range": "45",
+      "encounter": "1d4 + 4 wolves"
+    },
+    {
+      "range": "46",
+      "encounter": "2d4 giant wolf spiders"
+    },
+    {
+      "range": "47",
+      "encounter": "1 swarm of insects or 2d8 blood hawks"
+    },
+    {
+      "range": "48",
+      "encounter": "1d6 + 2 pixies"
+    },
+    {
+      "range": "49",
+      "encounter": "1 brown bear"
+    },
+    {
+      "range": "50",
+      "encounter": "1d4 + 3 goblins"
+    },
+    {
+      "range": "51",
+      "encounter": "1d3 dryads"
+    },
+    {
+      "range": "52",
+      "encounter": "1 awakened tree"
+    },
+    {
+      "range": "53",
+      "encounter": "1 phase spider"
+    },
+    {
+      "range": "54",
+      "encounter": "1d6 harpies"
+    },
+    {
+      "range": "55",
+      "encounter": "1 ettercap or 1d8 + 1 orcs"
+    },
+    {
+      "range": "56",
+      "encounter": "1 goblin boss with 2d6 + 1 goblins"
+    },
+    {
+      "range": "57",
+      "encounter": "1 ankheg"
+    },
+    {
+      "range": "58",
+      "encounter": "1 giant constrictor snake"
+    },
+    {
+      "range": "59",
+      "encounter": "1d4 bugbears or 2d4 hobgoblins"
+    },
+    {
+      "range": "60",
+      "encounter": "1 pegasus"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A stream of cool, clean water flowing between the trees"
+    },
+    {
+      "range": "66",
+      "encounter": "1d4 half-ogres or 1 ogre"
+    },
+    {
+      "range": "67",
+      "encounter": "1 faerie dragon (green or older)"
+    },
+    {
+      "range": "68",
+      "encounter": "1 werewolf or 1d8 + 1 worgs"
+    },
+    {
+      "range": "69",
+      "encounter": "1 druid harvesting mistletoe"
+    },
+    {
+      "range": "70",
+      "encounter": "1 will-o'-wisp"
+    },
+    {
+      "range": "71",
+      "encounter": "1d4 dire wolves or 1 giant boar"
+    },
+    {
+      "range": "72",
+      "encounter": "1d10 giant wasps"
+    },
+    {
+      "range": "73",
+      "encounter": "1 owlbear or 1 giant elk"
+    },
+    {
+      "range": "74",
+      "encounter": "2d6 gnolls"
+    },
+    {
+      "range": "75",
+      "encounter": "1d6 giant toads"
+    },
+    {
+      "range": "76–80",
+      "encounter": "1d6 web cocoons hanging from the branches, holding withered carcasses"
+    },
+    {
+      "range": "81",
+      "encounter": "1 wereboar or 1d4 giant boars"
+    },
+    {
+      "range": "82",
+      "encounter": "1d6 + 2 giant spiders"
+    },
+    {
+      "range": "83",
+      "encounter": "1d4 centaurs or 1d4 giant elk"
+    },
+    {
+      "range": "84",
+      "encounter": "1 orc Eye of Gruumsh with 2d4 + 2 orcs"
+    },
+    {
+      "range": "85",
+      "encounter": "1 gnoll fang of Yeenoghu"
+    },
+    {
+      "range": "86",
+      "encounter": "1d4 gricks"
+    },
+    {
+      "range": "87",
+      "encounter": "1 bandit captain with 2d6 + 3 bandits"
+    },
+    {
+      "range": "88",
+      "encounter": "1d4 wererats"
+    },
+    {
+      "range": "89",
+      "encounter": "1 couatl (day) or 1 banshee (night)"
+    },
+    {
+      "range": "90",
+      "encounter": "1 gnoll pack lord with 1d4 giant hyenas"
+    },
+    {
+      "range": "91",
+      "encounter": "2d4 berserkers or 1d4 veterans"
+    },
+    {
+      "range": "92",
+      "encounter": "1 lizardfolk shaman with 1d3 swarms of poisonous snakes and 1d10 + 2 lizardfolk"
+    },
+    {
+      "range": "93",
+      "encounter": "1d4 displacer beasts"
+    },
+    {
+      "range": "94",
+      "encounter": "1d3 green hags"
+    },
+    {
+      "range": "95",
+      "encounter": "1 hobgoblin captain with 2d6 hobgoblins and 1d4 giant boars"
+    },
+    {
+      "range": "96",
+      "encounter": "1 yuan-ti malison with 1d6 + 1 yuan-ti purebloods"
+    },
+    {
+      "range": "97",
+      "encounter": "1d3 weretigers"
+    },
+    {
+      "range": "98",
+      "encounter": "1 gorgon or 1 unicorn"
+    },
+    {
+      "range": "99",
+      "encounter": "1 shambling mound"
+    },
+    {
+      "range": "00",
+      "encounter": "1 yuan-ti abomination"
+    }
+  ],
+  "Forest Encounters (Levels 5–10)": [
+    {
+      "range": "01",
+      "encounter": "2d4 vine blights"
+    },
+    {
+      "range": "02",
+      "encounter": "2d6 hobgoblins or 2d6 orcs"
+    },
+    {
+      "range": "03",
+      "encounter": "2d4 apes or 2d4 satyrs"
+    },
+    {
+      "range": "04",
+      "encounter": "1d3 will-o'-wisps"
+    },
+    {
+      "range": "05",
+      "encounter": "1d4 swarms of poisonous snakes"
+    },
+    {
+      "range": "06",
+      "encounter": "1 orc Eye of Gruumsh with 1d3 orogs and 1d8 + 2 orcs"
+    },
+    {
+      "range": "07",
+      "encounter": "1d3 constrictor snakes or 1d4 tigers"
+    },
+    {
+      "range": "08",
+      "encounter": "1 goblin boss with 3d6 goblins"
+    },
+    {
+      "range": "09",
+      "encounter": "1 faerie dragon (any age)"
+    },
+    {
+      "range": "10",
+      "encounter": "1 brown bear or 1d6 + 2 black bears"
+    },
+    {
+      "range": "11–13",
+      "encounter": "1d4 giant boars"
+    },
+    {
+      "range": "14–15",
+      "encounter": "1d8 + 1 giant spiders"
+    },
+    {
+      "range": "16–17",
+      "encounter": "1 lizardfolk shaman with 2d4 lizardfolk"
+    },
+    {
+      "range": "18",
+      "encounter": "1d10 giant toads"
+    },
+    {
+      "range": "19",
+      "encounter": "1d4 ankhegs"
+    },
+    {
+      "range": "20",
+      "encounter": "1d3 awakened trees (day) or 1 banshee (night)"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A small shack almost hidden by the deep forest. The interior is empty aside from a large cast-iron oven."
+    },
+    {
+      "range": "26",
+      "encounter": "1 couatl"
+    },
+    {
+      "range": "27–28",
+      "encounter": "1d4 ogres or 1d6 + 2 half-ogres"
+    },
+    {
+      "range": "29–30",
+      "encounter": "1 gnoll pack lord with 1d4 + 1 giant hyenas"
+    },
+    {
+      "range": "31–32",
+      "encounter": "1d6 wererats"
+    },
+    {
+      "range": "33",
+      "encounter": "1d4 gricks"
+    },
+    {
+      "range": "34",
+      "encounter": "1d8 + 1 yuan-ti purebloods"
+    },
+    {
+      "range": "35",
+      "encounter": "1d6 pegasi"
+    },
+    {
+      "range": "36–40",
+      "encounter": "An old stone archway of obvious elven design. Any character who passes under it makes Wisdom (Perception) checks with advantage for 1 hour."
+    },
+    {
+      "range": "41–42",
+      "encounter": "1d6 + 2 dryads"
+    },
+    {
+      "range": "43",
+      "encounter": "1d4 giant elk"
+    },
+    {
+      "range": "44",
+      "encounter": "1d8 + 1 harpies"
+    },
+    {
+      "range": "45–46",
+      "encounter": "1 bandit captain with 1 druid and 1d6 + 5 bandits"
+    },
+    {
+      "range": "47–48",
+      "encounter": "2d4 dire wolves"
+    },
+    {
+      "range": "49–50",
+      "encounter": "2d4 bugbears"
+    },
+    {
+      "range": "51–52",
+      "encounter": "2d4 centaurs"
+    },
+    {
+      "range": "53–54",
+      "encounter": "3d10 blink dogs"
+    },
+    {
+      "range": "55–56",
+      "encounter": "1d4 owlbears"
+    },
+    {
+      "range": "57–58",
+      "encounter": "1d8 + 1 berserkers"
+    },
+    {
+      "range": "59–60",
+      "encounter": "1d3 green hags"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A clear pool of water with 1d6 sleeping animals lying around its edge"
+    },
+    {
+      "range": "66–67",
+      "encounter": "1d4 werewolves"
+    },
+    {
+      "range": "68–69",
+      "encounter": "1 werebear"
+    },
+    {
+      "range": "70–71",
+      "encounter": "1d8 + 1 ettercaps"
+    },
+    {
+      "range": "72–73",
+      "encounter": "2d10 elk"
+    },
+    {
+      "range": "74–75",
+      "encounter": "1d4 veterans"
+    },
+    {
+      "range": "76–80",
+      "encounter": "An old tree with a wizened face carved into the trunk"
+    },
+    {
+      "range": "81",
+      "encounter": "1d4 wereboars"
+    },
+    {
+      "range": "82",
+      "encounter": "2d4 displacer beasts"
+    },
+    {
+      "range": "83",
+      "encounter": "1d4 shambling mounds"
+    },
+    {
+      "range": "84",
+      "encounter": "1 hobgoblin captain with 3d10 hobgoblins and 4d12 goblins"
+    },
+    {
+      "range": "85",
+      "encounter": "1 yuan-ti abomination"
+    },
+    {
+      "range": "86",
+      "encounter": "1d8 + 1 phase spiders"
+    },
+    {
+      "range": "87",
+      "encounter": "1d4 trolls"
+    },
+    {
+      "range": "88",
+      "encounter": "2d4 yuan-ti malisons"
+    },
+    {
+      "range": "89",
+      "encounter": "1 oni"
+    },
+    {
+      "range": "90",
+      "encounter": "1d4 unicorns"
+    },
+    {
+      "range": "91",
+      "encounter": "1d6 + 2 weretigers"
+    },
+    {
+      "range": "92",
+      "encounter": "1 young green dragon"
+    },
+    {
+      "range": "93",
+      "encounter": "1d4 gorgons"
+    },
+    {
+      "range": "94",
+      "encounter": "1d6 + 2 gnoll fangs of Yeenoghu"
+    },
+    {
+      "range": "95",
+      "encounter": "1 treant"
+    },
+    {
+      "range": "96",
+      "encounter": "1d4 revenants"
+    },
+    {
+      "range": "97",
+      "encounter": "1 grick alpha with 1d6 + 1 gricks"
+    },
+    {
+      "range": "98",
+      "encounter": "1d4 giant apes"
+    },
+    {
+      "range": "99",
+      "encounter": "1 guardian naga"
+    },
+    {
+      "range": "00",
+      "encounter": "1 adult gold dragon"
+    }
+  ],
+  "Forest Encounters (Levels 11–16)": [
+    {
+      "range": "01–03",
+      "encounter": "1 werebear"
+    },
+    {
+      "range": "04–05",
+      "encounter": "1d4 druids performing a ritual for the dead (day only) or 1d4 banshees (night only)"
+    },
+    {
+      "range": "06–07",
+      "encounter": "1d3 couatls"
+    },
+    {
+      "range": "08–10",
+      "encounter": "1d3 gnoll fangs of Yeenoghu with 2d6 + 3 gnolls"
+    },
+    {
+      "range": "11–15",
+      "encounter": "2d4 displacer beasts"
+    },
+    {
+      "range": "16–20",
+      "encounter": "1d6 + 2 veterans"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A pool of clear, still water. Gold coins litter the bottom, but they disappear if removed from the pool."
+    },
+    {
+      "range": "26–30",
+      "encounter": "1d4 + 1 green hags with 1d3 owlbears"
+    },
+    {
+      "range": "31–35",
+      "encounter": "1d6 + 2 werewolves"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A small woodland shrine dedicated to a mysterious cult named the Siswa"
+    },
+    {
+      "range": "41–45",
+      "encounter": "1d6 + 2 phase spiders"
+    },
+    {
+      "range": "46–50",
+      "encounter": "2d4 yuan-ti malisons"
+    },
+    {
+      "range": "51–52",
+      "encounter": "1d3 werebears"
+    },
+    {
+      "range": "53–54",
+      "encounter": "1d4 revenants"
+    },
+    {
+      "range": "55–56",
+      "encounter": "1 young green dragon"
+    },
+    {
+      "range": "57–58",
+      "encounter": "1d4 trolls"
+    },
+    {
+      "range": "59–60",
+      "encounter": "1d6 + 2 wereboars"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A group of seven people (commoners) wearing animal masks and ambling through the woods"
+    },
+    {
+      "range": "66–67",
+      "encounter": "1d4 gorgons"
+    },
+    {
+      "range": "68–69",
+      "encounter": "1d3 shambling mounds"
+    },
+    {
+      "range": "70–71",
+      "encounter": "1 treant"
+    },
+    {
+      "range": "72–73",
+      "encounter": "1d4 unicorns"
+    },
+    {
+      "range": "74–75",
+      "encounter": "1d6 + 2 weretigers"
+    },
+    {
+      "range": "76–80",
+      "encounter": "Peals of silvery laughter that echo from a distance"
+    },
+    {
+      "range": "81–82",
+      "encounter": "1 guardian naga"
+    },
+    {
+      "range": "83–84",
+      "encounter": "1 young gold dragon"
+    },
+    {
+      "range": "85–86",
+      "encounter": "1 grick alpha with 2d4 gricks"
+    },
+    {
+      "range": "87–88",
+      "encounter": "1d3 yuan-ti abominations"
+    },
+    {
+      "range": "89–90",
+      "encounter": "1 adult green dragon"
+    },
+    {
+      "range": "91–93",
+      "encounter": "1d8 + 1 giant apes"
+    },
+    {
+      "range": "94–96",
+      "encounter": "2d4 oni"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1d3 treants"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient green dragon"
+    }
+  ],
+  "Forest Encounters (Levels 17–20)": [
+    {
+      "range": "01–05",
+      "encounter": "1 young green dragon"
+    },
+    {
+      "range": "06–10",
+      "encounter": "1 treant"
+    },
+    {
+      "range": "11–13",
+      "encounter": "1 guardian naga"
+    },
+    {
+      "range": "14–16",
+      "encounter": "1d10 revenants"
+    },
+    {
+      "range": "17–19",
+      "encounter": "1d8 + 1 unicorns"
+    },
+    {
+      "range": "20–22",
+      "encounter": "1d3 grick alphas"
+    },
+    {
+      "range": "23–25",
+      "encounter": "For a few hundred feet, wherever the characters step, flowers bloom and emit soft light."
+    },
+    {
+      "range": "26–28",
+      "encounter": "1 young gold dragon"
+    },
+    {
+      "range": "29–31",
+      "encounter": "1d6 + 2 shambling mounds"
+    },
+    {
+      "range": "32–34",
+      "encounter": "2d4 werebears"
+    },
+    {
+      "range": "35–37",
+      "encounter": "1d4 oni"
+    },
+    {
+      "range": "38–40",
+      "encounter": "4d6 + 10 elves living in a small community in the treetops"
+    },
+    {
+      "range": "41–43",
+      "encounter": "1d6 + 2 gorgons"
+    },
+    {
+      "range": "44–46",
+      "encounter": "2d4 trolls"
+    },
+    {
+      "range": "47–49",
+      "encounter": "1d4 giant apes"
+    },
+    {
+      "range": "50–52",
+      "encounter": "1d3 yuan-ti abominations"
+    },
+    {
+      "range": "53–62",
+      "encounter": "1d3 young green dragons"
+    },
+    {
+      "range": "63–65",
+      "encounter": "A 50-foot-tall stone statue of an elf warrior with hand raised, palm out, as if to forbid travelers from coming this way"
+    },
+    {
+      "range": "66–75",
+      "encounter": "1d4 treants"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A cairn set atop a low hill"
+    },
+    {
+      "range": "81–90",
+      "encounter": "1 adult gold dragon"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1 ancient green dragon"
+    },
+    {
+      "range": "97–99",
+      "encounter": "2d4 + 1 treants"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient gold dragon"
+    }
+  ],
+  "Grassland Encounters (Levels 1–5)": [
+    {
+      "range": "01",
+      "encounter": "1 hobgoblin captain with 1d4 + 1 hobgoblins"
+    },
+    {
+      "range": "02",
+      "encounter": "1 chimera"
+    },
+    {
+      "range": "03",
+      "encounter": "1 gorgon"
+    },
+    {
+      "range": "04",
+      "encounter": "1d2 couatls"
+    },
+    {
+      "range": "05",
+      "encounter": "1 ankylosaurus"
+    },
+    {
+      "range": "06",
+      "encounter": "1 weretiger"
+    },
+    {
+      "range": "07",
+      "encounter": "1d3 allosauruses"
+    },
+    {
+      "range": "08–09",
+      "encounter": "1d3 elephants"
+    },
+    {
+      "range": "10–14",
+      "encounter": "A circle of standing stones within which the air is utterly still, no matter how hard the wind blows outside"
+    },
+    {
+      "range": "15–16",
+      "encounter": "1 phase spider"
+    },
+    {
+      "range": "17–18",
+      "encounter": "1 gnoll pack lord with 1d4 giant hyenas"
+    },
+    {
+      "range": "19–20",
+      "encounter": "1 orog or 1 pegasus"
+    },
+    {
+      "range": "21–22",
+      "encounter": "1 ankheg"
+    },
+    {
+      "range": "23–24",
+      "encounter": "1d3 rhinoceroses"
+    },
+    {
+      "range": "25–28",
+      "encounter": "1d3 cockatrices"
+    },
+    {
+      "range": "29–32",
+      "encounter": "1d6 + 2 giant wasps or 1d4 + 3 swarms of insects"
+    },
+    {
+      "range": "33–36",
+      "encounter": "1d4 jackalweres or 1d4 scouts"
+    },
+    {
+      "range": "37–40",
+      "encounter": "1d8 giant goats or 1d8 worgs"
+    },
+    {
+      "range": "41–44",
+      "encounter": "2d4 hobgoblins, 2d4 orcs, or 2d4 gnolls"
+    },
+    {
+      "range": "45–46",
+      "encounter": "1d2 giant poisonous snakes"
+    },
+    {
+      "range": "47–48",
+      "encounter": "1d6 + 2 elk or 1d6 + 2 riding horses"
+    },
+    {
+      "range": "49–50",
+      "encounter": "2d4 goblins"
+    },
+    {
+      "range": "51–52",
+      "encounter": "1d3 boars"
+    },
+    {
+      "range": "53–54",
+      "encounter": "1 panther (leopard) or 1 lion"
+    },
+    {
+      "range": "55–58",
+      "encounter": "1d6 + 3 goblins riding wolves"
+    },
+    {
+      "range": "59–62",
+      "encounter": "2d6 giant wolf spiders or 1 giant eagle"
+    },
+    {
+      "range": "63–65",
+      "encounter": "1d8 + 4 pteranodons"
+    },
+    {
+      "range": "66–69",
+      "encounter": "3d6 wolves"
+    },
+    {
+      "range": "70–74",
+      "encounter": "2d4 + 2 axe beaks"
+    },
+    {
+      "range": "75–76",
+      "encounter": "1 giant boar or 1d2 tigers"
+    },
+    {
+      "range": "77–78",
+      "encounter": "1 ogre or 1d3 bugbears"
+    },
+    {
+      "range": "79–80",
+      "encounter": "1 giant elk, or 1 gnoll pack lord with 1d3 giant hyenas"
+    },
+    {
+      "range": "81–82",
+      "encounter": "1d3 giant vultures or 1d3 hippogriffs"
+    },
+    {
+      "range": "83–84",
+      "encounter": "1 goblin boss with 1d6 + 2 goblins and 1d4 + 3 wolves, or 1d3 thri-kreen"
+    },
+    {
+      "range": "85–89",
+      "encounter": "1d3 druids patrolling the wilds"
+    },
+    {
+      "range": "90–91",
+      "encounter": "1d6 scarecrows or 1 wereboar"
+    },
+    {
+      "range": "92–93",
+      "encounter": "1d3 centaurs or 1d3 griffons"
+    },
+    {
+      "range": "94",
+      "encounter": "1d3 gnoll fangs of Yeenoghu, or 1 orc Eye of Gruumsh with 2d4 + 1 orcs"
+    },
+    {
+      "range": "95–96",
+      "encounter": "1 triceratops"
+    },
+    {
+      "range": "97",
+      "encounter": "1 cyclops or 1 bulette"
+    },
+    {
+      "range": "98–99",
+      "encounter": "1d4 manticores"
+    },
+    {
+      "range": "00",
+      "encounter": "1 tyrannosaurus rex"
+    }
+  ],
+  "Grassland Encounters (Levels 6–10)": [
+    {
+      "range": "01",
+      "encounter": "1d3 gorgons"
+    },
+    {
+      "range": "02",
+      "encounter": "1d4 cyclopes"
+    },
+    {
+      "range": "03–04",
+      "encounter": "1d3 gnoll fangs of Yeenoghu"
+    },
+    {
+      "range": "05–06",
+      "encounter": "1 chimera"
+    },
+    {
+      "range": "07–09",
+      "encounter": "1d4 + 1 veterans on riding horses"
+    },
+    {
+      "range": "10–11",
+      "encounter": "A tornado that touches down 1d6 miles away, tearing up the land for 1 mile before it dissipates"
+    },
+    {
+      "range": "12–13",
+      "encounter": "1d3 manticores"
+    },
+    {
+      "range": "14–15",
+      "encounter": "2d4 ankhegs"
+    },
+    {
+      "range": "16–17",
+      "encounter": "1d8 + 1 centaurs"
+    },
+    {
+      "range": "18–19",
+      "encounter": "1d6 + 2 griffons"
+    },
+    {
+      "range": "20–21",
+      "encounter": "1d6 elephants"
+    },
+    {
+      "range": "22–24",
+      "encounter": "A stretch of land littered with rotting war machines, bones, and banners of forgotten armies"
+    },
+    {
+      "range": "25–28",
+      "encounter": "1d8 + 1 bugbears"
+    },
+    {
+      "range": "29–32",
+      "encounter": "1 gnoll pack lord with 1d4 + 1 giant hyenas"
+    },
+    {
+      "range": "33–36",
+      "encounter": "2d4 scarecrows"
+    },
+    {
+      "range": "37–40",
+      "encounter": "1d12 lions"
+    },
+    {
+      "range": "41–44",
+      "encounter": "1d10 thri-kreen"
+    },
+    {
+      "range": "45–46",
+      "encounter": "1 allosaurus"
+    },
+    {
+      "range": "47–48",
+      "encounter": "1 tiger"
+    },
+    {
+      "range": "49–50",
+      "encounter": "1d2 giant eagles or 1d2 giant vultures"
+    },
+    {
+      "range": "51–52",
+      "encounter": "1 goblin boss with 2d4 goblins"
+    },
+    {
+      "range": "53–54",
+      "encounter": "1d2 pegasi"
+    },
+    {
+      "range": "55–58",
+      "encounter": "1 ankylosaurus"
+    },
+    {
+      "range": "59–62",
+      "encounter": "1d2 couatls"
+    },
+    {
+      "range": "63–66",
+      "encounter": "1 orc Eye of Gruumsh with 1d8 + 1 orcs"
+    },
+    {
+      "range": "67–70",
+      "encounter": "2d4 hippogriffs"
+    },
+    {
+      "range": "71–74",
+      "encounter": "1d4 + 1 rhinoceroses"
+    },
+    {
+      "range": "75–76",
+      "encounter": "1 hobgoblin captain with 2d6 hobgoblins"
+    },
+    {
+      "range": "77–78",
+      "encounter": "1d3 phase spiders"
+    },
+    {
+      "range": "79–80",
+      "encounter": "1d6 + 2 giant boars"
+    },
+    {
+      "range": "81–82",
+      "encounter": "2d4 giant elk"
+    },
+    {
+      "range": "83–84",
+      "encounter": "1d4 ogres and 1d4 orogs"
+    },
+    {
+      "range": "85–87",
+      "encounter": "A hot wind that carries the stench of rot"
+    },
+    {
+      "range": "88–90",
+      "encounter": "1d3 weretigers"
+    },
+    {
+      "range": "91–92",
+      "encounter": "1 bulette"
+    },
+    {
+      "range": "93–94",
+      "encounter": "A tribe of 2d20 + 20 nomads (tribal warriors) on riding horses following a herd of antelope (deer). The nomads are willing to trade food, leather, and information for weapons."
+    },
+    {
+      "range": "95–96",
+      "encounter": "1d6 + 2 wereboars"
+    },
+    {
+      "range": "97",
+      "encounter": "1 young gold dragon"
+    },
+    {
+      "range": "98–99",
+      "encounter": "1d4 triceratops"
+    },
+    {
+      "range": "00",
+      "encounter": "1d3 tyrannosaurus rexes"
+    }
+  ],
+  "Grassland Encounters (Levels 11–16)": [
+    {
+      "range": "01–05",
+      "encounter": "3d6 wereboars"
+    },
+    {
+      "range": "06–10",
+      "encounter": "2d10 gnoll fangs of Yeenoghu"
+    },
+    {
+      "range": "11–15",
+      "encounter": "1d4 bulettes"
+    },
+    {
+      "range": "16–17",
+      "encounter": "An old road of paved stones, partly reclaimed by wilderness, that travels for 1d8 miles in either direction before ending"
+    },
+    {
+      "range": "18–27",
+      "encounter": "1d12 couatls"
+    },
+    {
+      "range": "28–30",
+      "encounter": "A witch (mage) dwelling in a crude hut. She offers potions of healing, antitoxins, and other consumable items for sale in exchange for food and news."
+    },
+    {
+      "range": "31–40",
+      "encounter": "2d10 elephants"
+    },
+    {
+      "range": "41–46",
+      "encounter": "2d4 weretigers"
+    },
+    {
+      "range": "47–56",
+      "encounter": "1d8 + 1 cyclopes"
+    },
+    {
+      "range": "57–61",
+      "encounter": "1d3 chimeras"
+    },
+    {
+      "range": "62–66",
+      "encounter": "5 triceratops"
+    },
+    {
+      "range": "67–69",
+      "encounter": "A giant hole 50 feet across that descends nearly 500 feet before opening into an empty cave"
+    },
+    {
+      "range": "70–79",
+      "encounter": "1d4 + 3 gorgons"
+    },
+    {
+      "range": "80–88",
+      "encounter": "1d3 young gold dragons"
+    },
+    {
+      "range": "89–90",
+      "encounter": "A circular section of grass nearly a quarter-mile across that appears to have been pressed down; 1d4 more such circles connected by lines can be seen from overhead."
+    },
+    {
+      "range": "91–96",
+      "encounter": "2d4 tyrannosaurus rexes"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1 adult gold dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient gold dragon"
+    }
+  ],
+  "Grassland Encounters (Levels 17–20)": [
+    {
+      "range": "01–10",
+      "encounter": "2d6 triceratops"
+    },
+    {
+      "range": "11–20",
+      "encounter": "1d10 gorgons"
+    },
+    {
+      "range": "21–25",
+      "encounter": "2d6 hyenas feeding on the carcass of a dead dinosaur"
+    },
+    {
+      "range": "26–35",
+      "encounter": "3d6 bulettes"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A fiery chariot that races across the sky"
+    },
+    {
+      "range": "41–50",
+      "encounter": "1d3 young gold dragons"
+    },
+    {
+      "range": "51–60",
+      "encounter": "2d4 cyclopes"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A valley where all the grass has died and the ground is littered with stumps and fallen tree trunks, all petrified"
+    },
+    {
+      "range": "66–75",
+      "encounter": "2d10 bugbears with 4d6 goblins and 2d10 wolves"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A friendly adventuring party of 1d6 + 1 characters of varying races, classes, and levels (average level 1d6 + 2). They share information about their recent travels."
+    },
+    {
+      "range": "81–90",
+      "encounter": "1d12 chimeras"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1d6 + 2 tyrannosaurus rexes"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1 adult gold dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient gold dragon"
+    }
+  ],
+  "Hill Encounters (Levels 1–4)": [
+    {
+      "range": "01",
+      "encounter": "1 eagle"
+    },
+    {
+      "range": "02–03",
+      "encounter": "2d4 baboons"
+    },
+    {
+      "range": "04–06",
+      "encounter": "1d6 bandits"
+    },
+    {
+      "range": "07",
+      "encounter": "1d4 vultures"
+    },
+    {
+      "range": "08",
+      "encounter": "1d10 commoners"
+    },
+    {
+      "range": "09",
+      "encounter": "1 raven"
+    },
+    {
+      "range": "10",
+      "encounter": "1 poisonous snake"
+    },
+    {
+      "range": "11–13",
+      "encounter": "2d6 bandits or 2d6 tribal warriors"
+    },
+    {
+      "range": "14",
+      "encounter": "2d8 goats"
+    },
+    {
+      "range": "15",
+      "encounter": "1d6 + 4 blood hawks"
+    },
+    {
+      "range": "16",
+      "encounter": "1d4 + 3 giant weasels"
+    },
+    {
+      "range": "17–18",
+      "encounter": "1d3 guards with 1d2 mastiffs and 1 mule"
+    },
+    {
+      "range": "19–20",
+      "encounter": "1d6 + 5 hyenas"
+    },
+    {
+      "range": "21–22",
+      "encounter": "2d4 stirges"
+    },
+    {
+      "range": "23–25",
+      "encounter": "An empty cave littered with bones"
+    },
+    {
+      "range": "26",
+      "encounter": "1 pseudodragon or 1d3 giant owls"
+    },
+    {
+      "range": "27",
+      "encounter": "1 lion or 1 panther (cougar)"
+    },
+    {
+      "range": "28–30",
+      "encounter": "2d8 kobolds"
+    },
+    {
+      "range": "31",
+      "encounter": "1 hippogriff"
+    },
+    {
+      "range": "32–34",
+      "encounter": "2d4 goblins"
+    },
+    {
+      "range": "35",
+      "encounter": "1 worg"
+    },
+    {
+      "range": "36",
+      "encounter": "1d3 swarms of bats or 1d3 swarms of ravens"
+    },
+    {
+      "range": "37",
+      "encounter": "1 giant eagle"
+    },
+    {
+      "range": "38–40",
+      "encounter": "An old dwarf sitting on a stump, whittling a piece of wood"
+    },
+    {
+      "range": "41",
+      "encounter": "1d4 elk"
+    },
+    {
+      "range": "42",
+      "encounter": "1d4 winged kobolds with 1d6 kobolds"
+    },
+    {
+      "range": "43",
+      "encounter": "1d6 + 2 giant wolf spiders"
+    },
+    {
+      "range": "44–45",
+      "encounter": "2d4 wolves"
+    },
+    {
+      "range": "46",
+      "encounter": "1 swarm of insects"
+    },
+    {
+      "range": "47",
+      "encounter": "1d8 + 1 axe beaks"
+    },
+    {
+      "range": "48–49",
+      "encounter": "1 brown bear or 1d3 boars"
+    },
+    {
+      "range": "50",
+      "encounter": "1 scout"
+    },
+    {
+      "range": "51",
+      "encounter": "1 ogre"
+    },
+    {
+      "range": "52–53",
+      "encounter": "2d4 gnolls"
+    },
+    {
+      "range": "54",
+      "encounter": "1 giant elk"
+    },
+    {
+      "range": "55",
+      "encounter": "1d3 + 1 harpies"
+    },
+    {
+      "range": "56",
+      "encounter": "1 werewolf"
+    },
+    {
+      "range": "57–58",
+      "encounter": "2d4 orcs"
+    },
+    {
+      "range": "59",
+      "encounter": "1d4 half-ogres"
+    },
+    {
+      "range": "60",
+      "encounter": "1 druid or 1 veteran"
+    },
+    {
+      "range": "61–63",
+      "encounter": "The corpse of an adventurer that carries an intact explorer’s pack and lies atop a longsword"
+    },
+    {
+      "range": "64",
+      "encounter": "1 green hag"
+    },
+    {
+      "range": "65–66",
+      "encounter": "1d3 dire wolves"
+    },
+    {
+      "range": "67–68",
+      "encounter": "A small cemetery containing 2d6 graves"
+    },
+    {
+      "range": "69–70",
+      "encounter": "1 hobgoblin captain with 2d4 hobgoblins"
+    },
+    {
+      "range": "71",
+      "encounter": "2d4 giant goats"
+    },
+    {
+      "range": "72",
+      "encounter": "1 manticore"
+    },
+    {
+      "range": "73–74",
+      "encounter": "1d6 + 2 hobgoblins"
+    },
+    {
+      "range": "75",
+      "encounter": "1 phase spider"
+    },
+    {
+      "range": "76–78",
+      "encounter": "A pile of droppings from a very large bird"
+    },
+    {
+      "range": "79",
+      "encounter": "1 gnoll fang of Yeenoghu"
+    },
+    {
+      "range": "80",
+      "encounter": "1d3 giant boars"
+    },
+    {
+      "range": "81",
+      "encounter": "1 gnoll pack lord with 1d3 giant hyenas"
+    },
+    {
+      "range": "82",
+      "encounter": "1 bandit captain with 2d4 bandits"
+    },
+    {
+      "range": "83",
+      "encounter": "1 orc Eye of Gruumsh with 1d8 + 2 orcs"
+    },
+    {
+      "range": "84",
+      "encounter": "1d3 orogs or 1d4 berserkers"
+    },
+    {
+      "range": "85–86",
+      "encounter": "1 ettin or 1 wereboar"
+    },
+    {
+      "range": "87–88",
+      "encounter": "1 goblin boss with 2d6 goblins"
+    },
+    {
+      "range": "89",
+      "encounter": "1d3 griffons"
+    },
+    {
+      "range": "90",
+      "encounter": "1d3 perytons or 1d4 pegasi"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1d3 trolls"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1 cyclops"
+    },
+    {
+      "range": "00",
+      "encounter": "1 stone giant"
+    }
+  ],
+  "Hill Encounters (Levels 5–10)": [
+    {
+      "range": "01",
+      "encounter": "1d4 pegasi or 1d3 perytons"
+    },
+    {
+      "range": "02",
+      "encounter": "1d6 + 2 giant goats"
+    },
+    {
+      "range": "03",
+      "encounter": "1 manticore"
+    },
+    {
+      "range": "04",
+      "encounter": "1d8 +1 gnolls or 1d8 + 1 hobgoblins"
+    },
+    {
+      "range": "05",
+      "encounter": "1d4 lions"
+    },
+    {
+      "range": "06",
+      "encounter": "1d6 + 2 worgs"
+    },
+    {
+      "range": "07",
+      "encounter": "1d4 brown bears"
+    },
+    {
+      "range": "08",
+      "encounter": "3d6 axe beaks"
+    },
+    {
+      "range": "09",
+      "encounter": "1 half-ogre with 2d6 orcs"
+    },
+    {
+      "range": "10",
+      "encounter": "2d10 winged kobolds"
+    },
+    {
+      "range": "11–12",
+      "encounter": "1 goblin boss with 1d4 dire wolves and 2d6 goblins"
+    },
+    {
+      "range": "13",
+      "encounter": "1d6 giant elk"
+    },
+    {
+      "range": "14–15",
+      "encounter": "1d8 + 1 giant eagles"
+    },
+    {
+      "range": "16–17",
+      "encounter": "1d4 phase spiders"
+    },
+    {
+      "range": "18–19",
+      "encounter": "1 gnoll pack lord with 2d4 giant hyenas"
+    },
+    {
+      "range": "20",
+      "encounter": "2d4 hippogriffs"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A 15-foot-tall stone statue of a dwarf warrior that has been tipped over on its side"
+    },
+    {
+      "range": "26–27",
+      "encounter": "2d4 orogs"
+    },
+    {
+      "range": "28–29",
+      "encounter": "1d4 + 1 griffons"
+    },
+    {
+      "range": "30–31",
+      "encounter": "1d6 + 2 harpies"
+    },
+    {
+      "range": "32–33",
+      "encounter": "1 orc Eye of Gruumsh with 2d6 + 3 orcs"
+    },
+    {
+      "range": "34–35",
+      "encounter": "1d4 + 3 giant boars"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A stone door set into the side of a steep hill, opening onto 15 feet of descending stairs that end at a cave-in"
+    },
+    {
+      "range": "41–42",
+      "encounter": "1d3 green hags"
+    },
+    {
+      "range": "43–44",
+      "encounter": "1d4 werewolves"
+    },
+    {
+      "range": "45–46",
+      "encounter": "1d6 + 2 ogres"
+    },
+    {
+      "range": "47–48",
+      "encounter": "1 hobgoblin captain with 2d8 hobgoblins"
+    },
+    {
+      "range": "49–50",
+      "encounter": "1 bandit captain with 3d6 bandits"
+    },
+    {
+      "range": "51–54",
+      "encounter": "1 chimera"
+    },
+    {
+      "range": "55–58",
+      "encounter": "1d4 ettins"
+    },
+    {
+      "range": "59–62",
+      "encounter": "1d6 + 2 veterans with 2d6 berserkers"
+    },
+    {
+      "range": "63–65",
+      "encounter": "An abandoned wooden hut"
+    },
+    {
+      "range": "66–69",
+      "encounter": "1 galeb duhr"
+    },
+    {
+      "range": "70–73",
+      "encounter": "1 bulette"
+    },
+    {
+      "range": "74–77",
+      "encounter": "1 wyvern"
+    },
+    {
+      "range": "78–80",
+      "encounter": "2d6 + 10 goats with 1 herder (tribal warrior)"
+    },
+    {
+      "range": "81–82",
+      "encounter": "1d3 hill giants"
+    },
+    {
+      "range": "83–84",
+      "encounter": "2d4 wereboars"
+    },
+    {
+      "range": "85–86",
+      "encounter": "1d4 revenants"
+    },
+    {
+      "range": "87–88",
+      "encounter": "1d2 gorgons"
+    },
+    {
+      "range": "89–90",
+      "encounter": "1d8 + 1 gnoll fangs of Yeenoghu"
+    },
+    {
+      "range": "91–93",
+      "encounter": "1d4 cyclopes"
+    },
+    {
+      "range": "94–96",
+      "encounter": "1 young red dragon"
+    },
+    {
+      "range": "97–98",
+      "encounter": "1d4 stone giants"
+    },
+    {
+      "range": "99",
+      "encounter": "1d3 young copper dragons"
+    },
+    {
+      "range": "00",
+      "encounter": "1 roc"
+    }
+  ],
+  "Hill Encounters (Levels 11–16)": [
+    {
+      "range": "01",
+      "encounter": "2d8 manticores or 2d8 phase spiders"
+    },
+    {
+      "range": "02–04",
+      "encounter": "1d6 green hags with 1d6 wyverns"
+    },
+    {
+      "range": "05–07",
+      "encounter": "1 hobgoblin captain with 1 hill giant and 4d10 hobgoblins"
+    },
+    {
+      "range": "08–10",
+      "encounter": "2d6 + 3 werewolves"
+    },
+    {
+      "range": "11–14",
+      "encounter": "1d6 + 2 ettins"
+    },
+    {
+      "range": "15–18",
+      "encounter": "1d3 bulettes"
+    },
+    {
+      "range": "19–22",
+      "encounter": "1d4 werebears"
+    },
+    {
+      "range": "23–24",
+      "encounter": "A stream of smoke emerging from a small chimney in the hillside"
+    },
+    {
+      "range": "25–28",
+      "encounter": "1d4 wyverns"
+    },
+    {
+      "range": "29–32",
+      "encounter": "1d8 + 1 wereboars"
+    },
+    {
+      "range": "33–36",
+      "encounter": "1d3 revenants"
+    },
+    {
+      "range": "37–38",
+      "encounter": "A mild earthquake that shakes the region for 1d20 seconds"
+    },
+    {
+      "range": "39–42",
+      "encounter": "1d3 chimeras"
+    },
+    {
+      "range": "43–46",
+      "encounter": "1d4 gorgons"
+    },
+    {
+      "range": "47–50",
+      "encounter": "1d6 + 2 gnoll fangs of Yeenoghu"
+    },
+    {
+      "range": "51–54",
+      "encounter": "1d4 hill giants"
+    },
+    {
+      "range": "55–58",
+      "encounter": "1 young red dragon"
+    },
+    {
+      "range": "59–62",
+      "encounter": "1d3 + 1 galeb duhr"
+    },
+    {
+      "range": "63–65",
+      "encounter": "2d10 dwarf miners (commoners), whistling as they march toward their mine"
+    },
+    {
+      "range": "66–69",
+      "encounter": "1d3 young copper dragons"
+    },
+    {
+      "range": "70–73",
+      "encounter": "1d4 trolls"
+    },
+    {
+      "range": "74–77",
+      "encounter": "1d3 cyclopes"
+    },
+    {
+      "range": "78–80",
+      "encounter": "1d3 nobles with 1d4 scouts prospecting for gold"
+    },
+    {
+      "range": "81–85",
+      "encounter": "1 adult copper dragon"
+    },
+    {
+      "range": "86–90",
+      "encounter": "2d4 stone giants"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1d4 rocs"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1 adult red dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient copper dragon"
+    }
+  ],
+  "Hill Encounters (Levels 17–20)": [
+    {
+      "range": "01",
+      "encounter": "1d2 rocs"
+    },
+    {
+      "range": "02–05",
+      "encounter": "1 young red dragon"
+    },
+    {
+      "range": "06–10",
+      "encounter": "2d6 ettins"
+    },
+    {
+      "range": "11–15",
+      "encounter": "1d4 bulettes"
+    },
+    {
+      "range": "16–20",
+      "encounter": "1d10 revenants"
+    },
+    {
+      "range": "21–25",
+      "encounter": "The white outline of an enormous horse carved into the side of a high hill"
+    },
+    {
+      "range": "26–30",
+      "encounter": "1d6 + 1 gorgons"
+    },
+    {
+      "range": "31–35",
+      "encounter": "2d4 + 1 trolls"
+    },
+    {
+      "range": "36–40",
+      "encounter": "The scorched remains of 2d10 humanoids littering a hillside"
+    },
+    {
+      "range": "41–45",
+      "encounter": "2d4 hill giants"
+    },
+    {
+      "range": "46–50",
+      "encounter": "1d6 + 2 werebears"
+    },
+    {
+      "range": "51–55",
+      "encounter": "2d4 galeb duhr"
+    },
+    {
+      "range": "56–60",
+      "encounter": "1d4 + 2 wyverns"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A massive boulder partly buried in the earth as if it fell or was thrown there"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1 adult copper dragon"
+    },
+    {
+      "range": "71–75",
+      "encounter": "1d6 + 3 cyclopes"
+    },
+    {
+      "range": "76–80",
+      "encounter": "The stub of an old stone tower jutting from the top of a hill"
+    },
+    {
+      "range": "81–85",
+      "encounter": "2d4 stone giants"
+    },
+    {
+      "range": "86–90",
+      "encounter": "1 adult red dragon"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1 ancient copper dragon"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1 ancient red dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1d2 adult red dragons with 1d3 young red dragons"
+    }
+  ],
+  "Mountain Encounters (Levels 1–4)": [
+    {
+      "range": "01–02",
+      "encounter": "1 eagle"
+    },
+    {
+      "range": "03–05",
+      "encounter": "1d3 swarms of bats"
+    },
+    {
+      "range": "06–08",
+      "encounter": "1d6 goats"
+    },
+    {
+      "range": "09–11",
+      "encounter": "1d10 + 5 tribal warriors"
+    },
+    {
+      "range": "12–14",
+      "encounter": "1d6 + 3 pteranodons"
+    },
+    {
+      "range": "15–17",
+      "encounter": "1d8 + 1 winged kobolds"
+    },
+    {
+      "range": "18–20",
+      "encounter": "1 lion"
+    },
+    {
+      "range": "21–24",
+      "encounter": "Stairs chiseled into the side of the mountain that climb 3d20 + 40 feet before ending abruptly"
+    },
+    {
+      "range": "25–27",
+      "encounter": "2d10 stirges"
+    },
+    {
+      "range": "28–30",
+      "encounter": "2d4 aarakocra"
+    },
+    {
+      "range": "31–33",
+      "encounter": "2d6 dwarf soldiers (guards) with 1d6 mules laden with iron ore"
+    },
+    {
+      "range": "34–36",
+      "encounter": "1 giant eagle"
+    },
+    {
+      "range": "37–38",
+      "encounter": "A small shrine dedicated to a lawful neutral god, perched on a stone outcropping"
+    },
+    {
+      "range": "39–41",
+      "encounter": "2d8 + 1 blood hawks"
+    },
+    {
+      "range": "42–44",
+      "encounter": "1 giant goat"
+    },
+    {
+      "range": "45–47",
+      "encounter": "3d4 kobolds"
+    },
+    {
+      "range": "48–50",
+      "encounter": "1 half-ogre"
+    },
+    {
+      "range": "51–53",
+      "encounter": "1 berserker"
+    },
+    {
+      "range": "54–55",
+      "encounter": "1 orog"
+    },
+    {
+      "range": "56",
+      "encounter": "1 hell hound"
+    },
+    {
+      "range": "57",
+      "encounter": "1 druid"
+    },
+    {
+      "range": "58–59",
+      "encounter": "1 peryton"
+    },
+    {
+      "range": "60–61",
+      "encounter": "1d2 hippogriffs"
+    },
+    {
+      "range": "62",
+      "encounter": "1 manticore"
+    },
+    {
+      "range": "63–64",
+      "encounter": "1d6 + 2 scouts"
+    },
+    {
+      "range": "65–67",
+      "encounter": "Enormous footprints left by a giant, which head into the mountain peaks"
+    },
+    {
+      "range": "68–73",
+      "encounter": "2d4 orcs"
+    },
+    {
+      "range": "74–75",
+      "encounter": "1 giant elk"
+    },
+    {
+      "range": "76–77",
+      "encounter": "1 veteran"
+    },
+    {
+      "range": "78–79",
+      "encounter": "1 orc Eye of Gruumsh"
+    },
+    {
+      "range": "80",
+      "encounter": "1d4 harpies"
+    },
+    {
+      "range": "81",
+      "encounter": "1 ogre"
+    },
+    {
+      "range": "82",
+      "encounter": "1 griffon"
+    },
+    {
+      "range": "83",
+      "encounter": "1 basilisk"
+    },
+    {
+      "range": "84–85",
+      "encounter": "1 saber-toothed tiger"
+    },
+    {
+      "range": "86–90",
+      "encounter": "A sparkling stream of water spilling from a crevice"
+    },
+    {
+      "range": "91",
+      "encounter": "1d2 ettins"
+    },
+    {
+      "range": "92",
+      "encounter": "1 cyclops"
+    },
+    {
+      "range": "93",
+      "encounter": "1 troll"
+    },
+    {
+      "range": "94",
+      "encounter": "1 galeb duhr"
+    },
+    {
+      "range": "95",
+      "encounter": "1 air elemental"
+    },
+    {
+      "range": "96",
+      "encounter": "1 bulette"
+    },
+    {
+      "range": "97",
+      "encounter": "1 chimera"
+    },
+    {
+      "range": "98",
+      "encounter": "1 wyvern"
+    },
+    {
+      "range": "99",
+      "encounter": "1 stone giant"
+    },
+    {
+      "range": "00",
+      "encounter": "1 frost giant"
+    }
+  ],
+  "Mountain Encounters (Levels 5–10)": [
+    {
+      "range": "01–02",
+      "encounter": "2d8 + 1 aarakocra"
+    },
+    {
+      "range": "03–04",
+      "encounter": "1 lion or 1 saber-toothed tiger"
+    },
+    {
+      "range": "05–06",
+      "encounter": "1d8 + 1 giant goats"
+    },
+    {
+      "range": "07–08",
+      "encounter": "1d4 + 3 dwarf trailblazers (scouts)"
+    },
+    {
+      "range": "09–10",
+      "encounter": "1d6 + 2 orcs"
+    },
+    {
+      "range": "11–15",
+      "encounter": "1d10 giant eagles"
+    },
+    {
+      "range": "16–20",
+      "encounter": "1d8 + 1 hippogriffs"
+    },
+    {
+      "range": "21–25",
+      "encounter": "1d8 fissures venting steam that partially obscures a 20-foot cube above each fissure"
+    },
+    {
+      "range": "26–30",
+      "encounter": "1 basilisk"
+    },
+    {
+      "range": "31–35",
+      "encounter": "1d12 half-ogres"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A ravine blocked by a 100-foot-high wall, which has an opening in the center where a gate used to be"
+    },
+    {
+      "range": "41–45",
+      "encounter": "1 manticore"
+    },
+    {
+      "range": "46–50",
+      "encounter": "2d4 harpies"
+    },
+    {
+      "range": "51–52",
+      "encounter": "1 galeb duhr"
+    },
+    {
+      "range": "53–54",
+      "encounter": "1 bulette"
+    },
+    {
+      "range": "55–56",
+      "encounter": "1d10 berserkers"
+    },
+    {
+      "range": "57–58",
+      "encounter": "1d3 hell hounds"
+    },
+    {
+      "range": "59–60",
+      "encounter": "1d8 + 1 veterans"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A distant mountain whose peak resembles a tooth"
+    },
+    {
+      "range": "66–69",
+      "encounter": "1d4 ettins"
+    },
+    {
+      "range": "70–73",
+      "encounter": "1 wyvern"
+    },
+    {
+      "range": "74–75",
+      "encounter": "1 orc Eye of Gruumsh with 1d6 orogs and 3d6 + 10 orcs"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A row of 1d10 + 40 stakes upon which the bodies of kobolds, dwarves, or orcs are impaled"
+    },
+    {
+      "range": "81–83",
+      "encounter": "1 fire giant"
+    },
+    {
+      "range": "84–85",
+      "encounter": "1 young silver dragon"
+    },
+    {
+      "range": "86–87",
+      "encounter": "1d4 air elementals"
+    },
+    {
+      "range": "88–90",
+      "encounter": "1d4 trolls"
+    },
+    {
+      "range": "91–92",
+      "encounter": "1d3 + 1 cyclopes"
+    },
+    {
+      "range": "93–94",
+      "encounter": "1d4 chimeras"
+    },
+    {
+      "range": "95–96",
+      "encounter": "1 cloud giant"
+    },
+    {
+      "range": "97",
+      "encounter": "1 roc"
+    },
+    {
+      "range": "98",
+      "encounter": "1d4 stone giants"
+    },
+    {
+      "range": "99",
+      "encounter": "1 young red dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1d4 frost giants"
+    }
+  ],
+  "Mountain Encounters (Levels 11–16)": [
+    {
+      "range": "01–02",
+      "encounter": "1d8 + 1 basilisks"
+    },
+    {
+      "range": "03–04",
+      "encounter": "2d4 hell hounds"
+    },
+    {
+      "range": "05–06",
+      "encounter": "1d3 chimeras"
+    },
+    {
+      "range": "07–08",
+      "encounter": "1 galeb duhr"
+    },
+    {
+      "range": "09–10",
+      "encounter": "2d6 veterans"
+    },
+    {
+      "range": "11–15",
+      "encounter": "1 young silver dragon"
+    },
+    {
+      "range": "16–20",
+      "encounter": "2d4 trolls"
+    },
+    {
+      "range": "21–25",
+      "encounter": "1 red dragon gliding through the sky above the highest mountaintops"
+    },
+    {
+      "range": "26–30",
+      "encounter": "1d8 + 1 manticores"
+    },
+    {
+      "range": "31–35",
+      "encounter": "1d4 cyclopes"
+    },
+    {
+      "range": "36–40",
+      "encounter": "Heavy snowfall that lasts for 1d6 hours"
+    },
+    {
+      "range": "41–45",
+      "encounter": "1d10 air elementals"
+    },
+    {
+      "range": "46–50",
+      "encounter": "1d6 + 2 bulettes"
+    },
+    {
+      "range": "51–55",
+      "encounter": "1d4 stone giants"
+    },
+    {
+      "range": "56–60",
+      "encounter": "1 fire giant"
+    },
+    {
+      "range": "61–65",
+      "encounter": "2 stone giants playing catch with a boulder a few hundred feet away"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1d8 + 1 ettins"
+    },
+    {
+      "range": "71–75",
+      "encounter": "1d3 frost giants"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A wide crevasse, its depths shrouded in mist"
+    },
+    {
+      "range": "81–85",
+      "encounter": "1d4 cloud giants"
+    },
+    {
+      "range": "86–90",
+      "encounter": "1 adult silver dragon"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1 adult red dragon"
+    },
+    {
+      "range": "97–98",
+      "encounter": "1d4 rocs"
+    },
+    {
+      "range": "99",
+      "encounter": "1 ancient silver dragon"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient red dragon"
+    }
+  ],
+  "Mountain Encounters (Levels 17–20)": [
+    {
+      "range": "01–05",
+      "encounter": "1d10 bulettes"
+    },
+    {
+      "range": "06–10",
+      "encounter": "1d8 + 1 chimeras"
+    },
+    {
+      "range": "11–15",
+      "encounter": "1 adult silver dragon"
+    },
+    {
+      "range": "16–20",
+      "encounter": "1d8 + 1 wyverns"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A massive boat perched atop a mountain"
+    },
+    {
+      "range": "26–30",
+      "encounter": "2d4 galeb duhr"
+    },
+    {
+      "range": "31–35",
+      "encounter": "1d4 frost giants"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A wooded valley haunted by secretive and reclusive elves who tell warily of their master: a mad wizard who lives in the heart of the valley"
+    },
+    {
+      "range": "41–45",
+      "encounter": "1d10 air elementals"
+    },
+    {
+      "range": "46–50",
+      "encounter": "1d6 + 3 trolls"
+    },
+    {
+      "range": "51–55",
+      "encounter": "1 adult red dragon"
+    },
+    {
+      "range": "56–60",
+      "encounter": "1d4 cloud giants"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A waterfall hundreds of feet high that drops into a clear pool"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1d3 fire giants"
+    },
+    {
+      "range": "71–75",
+      "encounter": "2d4 stone giants"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A force of 100 dwarves (veterans) standing guard at a mountain pass, permitting no passage until a traveler pays 100 gp (if on foot) or 200 gp (if mounted)"
+    },
+    {
+      "range": "81–85",
+      "encounter": "1d4 rocs"
+    },
+    {
+      "range": "86–90",
+      "encounter": "1d4 young red dragons"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1 ancient silver dragon"
+    },
+    {
+      "range": "97–00",
+      "encounter": "1 ancient red dragon"
+    }
+  ],
+  "Swamp Encounters (Levels 1–4)": [
+    {
+      "range": "01",
+      "encounter": "1d4 poisonous snakes"
+    },
+    {
+      "range": "02–05",
+      "encounter": "3d6 rats"
+    },
+    {
+      "range": "06–10",
+      "encounter": "2d8 ravens"
+    },
+    {
+      "range": "11–12",
+      "encounter": "3d6 giant rats"
+    },
+    {
+      "range": "13",
+      "encounter": "1d10 + 5 tribal warriors"
+    },
+    {
+      "range": "14–15",
+      "encounter": "1d8 + 1 giant lizards"
+    },
+    {
+      "range": "16–17",
+      "encounter": "1 crocodile"
+    },
+    {
+      "range": "18–19",
+      "encounter": "1 swarm of insects"
+    },
+    {
+      "range": "20",
+      "encounter": "1 giant spider"
+    },
+    {
+      "range": "21–22",
+      "encounter": "1d4 + 1 mud huts partially sunken in murky water"
+    },
+    {
+      "range": "23–25",
+      "encounter": "2d8 + 1 kobolds"
+    },
+    {
+      "range": "26",
+      "encounter": "2d4 mud mephits"
+    },
+    {
+      "range": "27–29",
+      "encounter": "1d6 + 2 giant poisonous snakes"
+    },
+    {
+      "range": "30",
+      "encounter": "2d4 winged kobolds"
+    },
+    {
+      "range": "31–32",
+      "encounter": "1 scout"
+    },
+    {
+      "range": "33–34",
+      "encounter": "The corpse of an adventurer tangled in the weeds. Looting the body turns up an explorer’s pack and perhaps (50% chance) a random common magic item."
+    },
+    {
+      "range": "35–38",
+      "encounter": "1 giant toad"
+    },
+    {
+      "range": "39–41",
+      "encounter": "1d6 + 2 constrictor snakes"
+    },
+    {
+      "range": "42–44",
+      "encounter": "2d4 giant frogs"
+    },
+    {
+      "range": "45",
+      "encounter": "1d8 + 1 swarms of rats or 1d6 + 2 swarms of ravens"
+    },
+    {
+      "range": "46–48",
+      "encounter": "2d10 stirges"
+    },
+    {
+      "range": "49–52",
+      "encounter": "2d6 + 3 bullywugs"
+    },
+    {
+      "range": "53–54",
+      "encounter": "1d8 + 1 orcs"
+    },
+    {
+      "range": "55–56",
+      "encounter": "1d4 yuan-ti purebloods"
+    },
+    {
+      "range": "57",
+      "encounter": "1 druid"
+    },
+    {
+      "range": "58–59",
+      "encounter": "1 yuan-ti malison"
+    },
+    {
+      "range": "60–62",
+      "encounter": "1 giant constrictor snake"
+    },
+    {
+      "range": "63–64",
+      "encounter": "A high-pitched shriek that lasts for 1d4 minutes"
+    },
+    {
+      "range": "65–67",
+      "encounter": "2d4 lizardfolk"
+    },
+    {
+      "range": "68–69",
+      "encounter": "1d4 ghouls"
+    },
+    {
+      "range": "70–71",
+      "encounter": "1 will-o'-wisp"
+    },
+    {
+      "range": "72",
+      "encounter": "1 wight"
+    },
+    {
+      "range": "73",
+      "encounter": "1 ghast"
+    },
+    {
+      "range": "74–75",
+      "encounter": "1 swarm of poisonous snakes"
+    },
+    {
+      "range": "76–77",
+      "encounter": "A foul stench bubbling up from brackish waters"
+    },
+    {
+      "range": "78–80",
+      "encounter": "1d4 + 2 ogres"
+    },
+    {
+      "range": "81–83",
+      "encounter": "1 shambling mound"
+    },
+    {
+      "range": "84–86",
+      "encounter": "1 lizardfolk shaman with 1d6 giant lizards and 2d10 lizardfolk"
+    },
+    {
+      "range": "87",
+      "encounter": "1 troll"
+    },
+    {
+      "range": "88–89",
+      "encounter": "1d4 green hags"
+    },
+    {
+      "range": "90–91",
+      "encounter": "1 revenant"
+    },
+    {
+      "range": "92–93",
+      "encounter": "1 giant crocodile"
+    },
+    {
+      "range": "94–95",
+      "encounter": "1 orc Eye of Gruumsh with 1d3 orogs and 2d6 + 3 orcs"
+    },
+    {
+      "range": "96–97",
+      "encounter": "1 young black dragon"
+    },
+    {
+      "range": "98",
+      "encounter": "1 yuan-ti abomination"
+    },
+    {
+      "range": "99",
+      "encounter": "1d4 water elementals"
+    },
+    {
+      "range": "00",
+      "encounter": "1 hydra"
+    }
+  ],
+  "Swamp Encounters (Levels 5–10)": [
+    {
+      "range": "01",
+      "encounter": "1 green hag"
+    },
+    {
+      "range": "02–03",
+      "encounter": "2d4 giant lizards or 2d4 giant poisonous snakes"
+    },
+    {
+      "range": "04–05",
+      "encounter": "2d8 winged kobolds"
+    },
+    {
+      "range": "06–07",
+      "encounter": "1d10 + 1 bullywugs with 1d8 + 1 giant frogs"
+    },
+    {
+      "range": "08–09",
+      "encounter": "1 druid"
+    },
+    {
+      "range": "10",
+      "encounter": "1d8 + 1 swarms of insects"
+    },
+    {
+      "range": "11–13",
+      "encounter": "1d12 ghouls"
+    },
+    {
+      "range": "14–16",
+      "encounter": "2d8 scouts"
+    },
+    {
+      "range": "17–19",
+      "encounter": "2d10 orcs"
+    },
+    {
+      "range": "20–22",
+      "encounter": "2d4 giant spiders"
+    },
+    {
+      "range": "23–24",
+      "encounter": "Tainted water that exposes creatures that move through it to sight rot (see “Diseases” in chapter 8 of the Dungeon Master’s Guide)"
+    },
+    {
+      "range": "25–27",
+      "encounter": "1d6 + 2 giant toads"
+    },
+    {
+      "range": "28–30",
+      "encounter": "3d6 lizardfolk"
+    },
+    {
+      "range": "31–33",
+      "encounter": "1d8 + 1 yuan-ti purebloods"
+    },
+    {
+      "range": "34–36",
+      "encounter": "1d4 + 1 swarms of poisonous snakes"
+    },
+    {
+      "range": "37–38",
+      "encounter": "A bloated humanoid corpse floating facedown in the water"
+    },
+    {
+      "range": "39–41",
+      "encounter": "1 shambling mound"
+    },
+    {
+      "range": "42–44",
+      "encounter": "1d4 + 1 will-o'-wisps"
+    },
+    {
+      "range": "45–47",
+      "encounter": "2d6 crocodiles"
+    },
+    {
+      "range": "48–50",
+      "encounter": "1d4 + 1 giant constrictor snakes"
+    },
+    {
+      "range": "51–54",
+      "encounter": "1 lizardfolk shaman with 1d3 swarms of poisonous snakes and 1d8 + 2 lizardfolk"
+    },
+    {
+      "range": "55–58",
+      "encounter": "1d8 + 1 ogres"
+    },
+    {
+      "range": "59–62",
+      "encounter": "2d4 ghasts"
+    },
+    {
+      "range": "63–65",
+      "encounter": "An altar partially sunk into the mud, devoted to a god that is part human and part frog"
+    },
+    {
+      "range": "66–69",
+      "encounter": "1 giant crocodile"
+    },
+    {
+      "range": "70–73",
+      "encounter": "1 shambling mound"
+    },
+    {
+      "range": "74–77",
+      "encounter": "1 orc Eye of Gruumsh with 1d3 ogres and 2d10 + 5 orcs"
+    },
+    {
+      "range": "78–80",
+      "encounter": "A torrential rain that lasts 1d6 minutes and puts out all unprotected flames within 1 mile"
+    },
+    {
+      "range": "81–82",
+      "encounter": "1 young black dragon"
+    },
+    {
+      "range": "83–84",
+      "encounter": "1d4 green hags with 1d6 + 1 ogres"
+    },
+    {
+      "range": "85–86",
+      "encounter": "1 yuan-ti abomination"
+    },
+    {
+      "range": "87–88",
+      "encounter": "1d4 + 1 wights"
+    },
+    {
+      "range": "89–90",
+      "encounter": "1d6 + 1 yuan-ti malisons"
+    },
+    {
+      "range": "91–93",
+      "encounter": "1d4 + 1 trolls"
+    },
+    {
+      "range": "94–96",
+      "encounter": "1d10 revenants"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1d8 + 1 water elementals"
+    },
+    {
+      "range": "00",
+      "encounter": "1d3 hydras"
+    }
+  ],
+  "Swamp Encounters (Levels 11–20)": [
+    {
+      "range": "01–10",
+      "encounter": "1d4 giant crocodiles"
+    },
+    {
+      "range": "11–15",
+      "encounter": "1d3 yuan-ti abominations"
+    },
+    {
+      "range": "16–20",
+      "encounter": "1d6 + 1 green hags"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A large, spreading tree from which 2d6 armored knights hang by the neck"
+    },
+    {
+      "range": "26–30",
+      "encounter": "2d4 wights"
+    },
+    {
+      "range": "31–35",
+      "encounter": "1d8 + 1 yuan-ti malisons"
+    },
+    {
+      "range": "36–40",
+      "encounter": "Fog that rolls across the terrain, making the area within 1d3 miles heavily obscured for 1d4 hours"
+    },
+    {
+      "range": "41–45",
+      "encounter": "1d4 revenants"
+    },
+    {
+      "range": "46–50",
+      "encounter": "1d6 shambling mounds"
+    },
+    {
+      "range": "51–55",
+      "encounter": "1d10 water elementals"
+    },
+    {
+      "range": "56–60",
+      "encounter": "1d4 young black dragons"
+    },
+    {
+      "range": "61–65",
+      "encounter": "An eerie, bat-headed idol almost completely covered by vines"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1d8 + 2 trolls"
+    },
+    {
+      "range": "71–75",
+      "encounter": "1d3 hydras"
+    },
+    {
+      "range": "76–80",
+      "encounter": "The sound of drums beating several miles away"
+    },
+    {
+      "range": "81–96",
+      "encounter": "1 adult black dragon"
+    },
+    {
+      "range": "97–00",
+      "encounter": "1 ancient black dragon"
+    }
+  ],
+  "Underdark Encounters (Levels 1–4)": [
+    {
+      "range": "01",
+      "encounter": "1 mind flayer arcanist"
+    },
+    {
+      "range": "02",
+      "encounter": "1d3 + 1 giant poisonous snakes"
+    },
+    {
+      "range": "03",
+      "encounter": "1d3 giant lizards"
+    },
+    {
+      "range": "04",
+      "encounter": "2d4 giant fire beetles"
+    },
+    {
+      "range": "05",
+      "encounter": "1d8 + 1 flumphs"
+    },
+    {
+      "range": "06",
+      "encounter": "1 shrieker"
+    },
+    {
+      "range": "07",
+      "encounter": "1d12 giant rats"
+    },
+    {
+      "range": "08",
+      "encounter": "2d4 kobolds"
+    },
+    {
+      "range": "09",
+      "encounter": "1d8 + 1 stirges"
+    },
+    {
+      "range": "10",
+      "encounter": "2d4 humans (tribal warriors) seeking the way to the surface, fleeing their Underdark oppressors"
+    },
+    {
+      "range": "11–12",
+      "encounter": "1d10 troglodytes"
+    },
+    {
+      "range": "13–14",
+      "encounter": "1d2 gray oozes"
+    },
+    {
+      "range": "15–16",
+      "encounter": "3d6 stirges"
+    },
+    {
+      "range": "17–18",
+      "encounter": "1d3 magma mephits"
+    },
+    {
+      "range": "19–20",
+      "encounter": "1d10 goblins"
+    },
+    {
+      "range": "21–22",
+      "encounter": "Orc graffiti on the walls, suggesting something rude about the mother of someone named Krusk"
+    },
+    {
+      "range": "23–24",
+      "encounter": "1 swarm of insects"
+    },
+    {
+      "range": "25",
+      "encounter": "1 deep gnome"
+    },
+    {
+      "range": "26–28",
+      "encounter": "1d8 + 1 drow"
+    },
+    {
+      "range": "29–30",
+      "encounter": "1d4 violet fungi"
+    },
+    {
+      "range": "31–32",
+      "encounter": "1d12 kuo-toa"
+    },
+    {
+      "range": "33",
+      "encounter": "1 rust monster"
+    },
+    {
+      "range": "34–35",
+      "encounter": "A rubble-strewn passage that appears to have been recently cleared after a cave-in"
+    },
+    {
+      "range": "36–37",
+      "encounter": "1d8 + 1 giant bats"
+    },
+    {
+      "range": "38–39",
+      "encounter": "3d6 kobolds"
+    },
+    {
+      "range": "40–41",
+      "encounter": "2d4 grimlocks"
+    },
+    {
+      "range": "42–43",
+      "encounter": "1d4 + 3 swarms of bats"
+    },
+    {
+      "range": "44",
+      "encounter": "1 dwarf prospector (scout) looking for gold"
+    },
+    {
+      "range": "45",
+      "encounter": "1 carrion crawler or 1 gelatinous cube"
+    },
+    {
+      "range": "46",
+      "encounter": "1d8 darkmantles or 2d4 piercers"
+    },
+    {
+      "range": "47",
+      "encounter": "1 hell hound"
+    },
+    {
+      "range": "48",
+      "encounter": "1d3 specters"
+    },
+    {
+      "range": "49",
+      "encounter": "1d4 bugbears"
+    },
+    {
+      "range": "50",
+      "encounter": "1d10 + 5 winged kobolds"
+    },
+    {
+      "range": "51",
+      "encounter": "1d4 fire snakes"
+    },
+    {
+      "range": "52",
+      "encounter": "2d8 + 1 troglodytes"
+    },
+    {
+      "range": "53",
+      "encounter": "1d6 giant spiders"
+    },
+    {
+      "range": "54",
+      "encounter": "3d6 kuo-toa"
+    },
+    {
+      "range": "55",
+      "encounter": "1 goblin boss with 2d4 goblins"
+    },
+    {
+      "range": "56",
+      "encounter": "4d4 grimlocks"
+    },
+    {
+      "range": "57",
+      "encounter": "1 ochre jelly"
+    },
+    {
+      "range": "58",
+      "encounter": "2d10 giant centipedes"
+    },
+    {
+      "range": "59",
+      "encounter": "1 nothic or 1 giant toad"
+    },
+    {
+      "range": "60",
+      "encounter": "1d4 myconid adults with 5d4 myconid sprouts"
+    },
+    {
+      "range": "61",
+      "encounter": "1 minotaur skeleton or 1 minotaur"
+    },
+    {
+      "range": "62",
+      "encounter": "3d6 drow"
+    },
+    {
+      "range": "63",
+      "encounter": "1 mimic or 1 doppelganger"
+    },
+    {
+      "range": "64",
+      "encounter": "1d6 + 3 hobgoblins"
+    },
+    {
+      "range": "65",
+      "encounter": "1 intellect devourer or 1 spectator"
+    },
+    {
+      "range": "66",
+      "encounter": "1d8 + 1 orcs"
+    },
+    {
+      "range": "67–68",
+      "encounter": "A faint tapping coming from inside a nearby wall"
+    },
+    {
+      "range": "69",
+      "encounter": "1 gibbering mouther or 1 water weird"
+    },
+    {
+      "range": "70",
+      "encounter": "1d12 gas spores"
+    },
+    {
+      "range": "71",
+      "encounter": "1 giant constrictor snake"
+    },
+    {
+      "range": "72",
+      "encounter": "1d10 shadows"
+    },
+    {
+      "range": "73",
+      "encounter": "1d3 grells"
+    },
+    {
+      "range": "74",
+      "encounter": "1d4 wights"
+    },
+    {
+      "range": "75",
+      "encounter": "1d8 + 1 quaggoth spore servants"
+    },
+    {
+      "range": "76",
+      "encounter": "1d2 gargoyles"
+    },
+    {
+      "range": "77",
+      "encounter": "1d4 ogres or 1d3 ettins"
+    },
+    {
+      "range": "78",
+      "encounter": "1d4 dwarf explorers (veterans)"
+    },
+    {
+      "range": "79–80",
+      "encounter": "An abandoned miners’ camp spattered with blood and littered with the contents of 1d3 dungeoneer’s packs"
+    },
+    {
+      "range": "81",
+      "encounter": "1 chuul or 1 salamander"
+    },
+    {
+      "range": "82",
+      "encounter": "1d4 phase spiders or 1d3 hook horrors"
+    },
+    {
+      "range": "83",
+      "encounter": "5d4 duergar"
+    },
+    {
+      "range": "84",
+      "encounter": "1 ghost or 1 flameskull or 1 wraith"
+    },
+    {
+      "range": "85",
+      "encounter": "1 druid with 1 polar bear (cave bear)"
+    },
+    {
+      "range": "86",
+      "encounter": "1 hobgoblin captain with 1d4 half-ogres and 2d10 hobgoblins"
+    },
+    {
+      "range": "87",
+      "encounter": "1 earth elemental or 1 black pudding"
+    },
+    {
+      "range": "88",
+      "encounter": "1 kuo-toa monitor with 1d8 + 1 kuo-toa whips"
+    },
+    {
+      "range": "89",
+      "encounter": "1 quaggoth thonot with 1d3 quaggoths"
+    },
+    {
+      "range": "90",
+      "encounter": "1 beholder zombie or 1 bone naga"
+    },
+    {
+      "range": "91",
+      "encounter": "1 orc Eye of Gruumsh with 1d4 orogs and 2d8 orcs"
+    },
+    {
+      "range": "92",
+      "encounter": "1d4 ghasts with 1d10 ghouls"
+    },
+    {
+      "range": "93–95",
+      "encounter": "A reeking puddle where slimy water has dripped from the ceiling"
+    },
+    {
+      "range": "96",
+      "encounter": "1 otyugh or 1 roper"
+    },
+    {
+      "range": "97",
+      "encounter": "1 vampire spawn"
+    },
+    {
+      "range": "98",
+      "encounter": "1 chimera"
+    },
+    {
+      "range": "99",
+      "encounter": "1 mind flayer"
+    },
+    {
+      "range": "00",
+      "encounter": "1 spirit naga"
+    }
+  ],
+  "Underdark Encounters (Levels 5–10)": [
+    {
+      "range": "01",
+      "encounter": "3d6 swarms of bats"
+    },
+    {
+      "range": "02",
+      "encounter": "1d4 giant spiders or 1d4 giant toads"
+    },
+    {
+      "range": "03",
+      "encounter": "1 mimic"
+    },
+    {
+      "range": "04",
+      "encounter": "2d4 gray oozes"
+    },
+    {
+      "range": "05",
+      "encounter": "2d10 orcs or 3d6 troglodytes"
+    },
+    {
+      "range": "06",
+      "encounter": "3d6 grimlocks"
+    },
+    {
+      "range": "07",
+      "encounter": "1d6 + 2 magma mephits"
+    },
+    {
+      "range": "08",
+      "encounter": "1 goblin boss with 2d4 goblins"
+    },
+    {
+      "range": "09",
+      "encounter": "2d4 darkmantles"
+    },
+    {
+      "range": "10",
+      "encounter": "2d8 + 1 drow"
+    },
+    {
+      "range": "11",
+      "encounter": "2d10 piercers"
+    },
+    {
+      "range": "12",
+      "encounter": "1d4 minotaur skeletons"
+    },
+    {
+      "range": "13–14",
+      "encounter": "3d6 deep gnomes"
+    },
+    {
+      "range": "15",
+      "encounter": "1 druid with 1 polar bear (cave bear)"
+    },
+    {
+      "range": "16–17",
+      "encounter": "3d6 orcs"
+    },
+    {
+      "range": "18",
+      "encounter": "1 bone naga"
+    },
+    {
+      "range": "19–20",
+      "encounter": "2d6 bugbears"
+    },
+    {
+      "range": "21–25",
+      "encounter": "Luminescent fungi growing on the walls of a moist cave, filling it with dim light"
+    },
+    {
+      "range": "26",
+      "encounter": "2d4 specters"
+    },
+    {
+      "range": "27",
+      "encounter": "1d12 + 4 shadows"
+    },
+    {
+      "range": "28",
+      "encounter": "1d3 gibbering mouthers"
+    },
+    {
+      "range": "29–30",
+      "encounter": "4d4 hobgoblins"
+    },
+    {
+      "range": "31–32",
+      "encounter": "1d4 carrion crawlers"
+    },
+    {
+      "range": "33–34",
+      "encounter": "1 black pudding"
+    },
+    {
+      "range": "35",
+      "encounter": "1d4 ochre jellies"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A patch of mold that appears yellow when light is directed toward it"
+    },
+    {
+      "range": "41",
+      "encounter": "1d4 nothics"
+    },
+    {
+      "range": "42–43",
+      "encounter": "2d8 + 1 gas spores"
+    },
+    {
+      "range": "44–45",
+      "encounter": "1d3 gelatinous cubes"
+    },
+    {
+      "range": "46",
+      "encounter": "1 ghost"
+    },
+    {
+      "range": "47–48",
+      "encounter": "1 flameskull"
+    },
+    {
+      "range": "49–50",
+      "encounter": "2d8 duergar"
+    },
+    {
+      "range": "51",
+      "encounter": "1 wraith"
+    },
+    {
+      "range": "52",
+      "encounter": "1 umber hulk"
+    },
+    {
+      "range": "53",
+      "encounter": "1 xorn"
+    },
+    {
+      "range": "54",
+      "encounter": "1d6 + 2 dwarf hunters (veterans) searching for trolls"
+    },
+    {
+      "range": "55",
+      "encounter": "1 hobgoblin captain with 3d10 hobgoblins"
+    },
+    {
+      "range": "56",
+      "encounter": "1 roper"
+    },
+    {
+      "range": "57",
+      "encounter": "1 kuo-toa monitor with 1d4 kuo-toa whips and 1d8 + 1 kuo-toa"
+    },
+    {
+      "range": "58",
+      "encounter": "1d3 water weirds"
+    },
+    {
+      "range": "59",
+      "encounter": "1d4 ghasts with 1d10 ghouls"
+    },
+    {
+      "range": "60",
+      "encounter": "1 otyugh"
+    },
+    {
+      "range": "61–62",
+      "encounter": "A merchant caravan consisting of 1 drow mage, 2 drow elite warriors, and 2d10 quaggoths"
+    },
+    {
+      "range": "63",
+      "encounter": "1d4 wights"
+    },
+    {
+      "range": "64",
+      "encounter": "1d4 doppelgangers"
+    },
+    {
+      "range": "65",
+      "encounter": "2d8 fire snakes"
+    },
+    {
+      "range": "66",
+      "encounter": "1d4 spectators"
+    },
+    {
+      "range": "67",
+      "encounter": "1 orc Eye of Gruumsh with 1d4 orogs and 2d10 + 3 orcs"
+    },
+    {
+      "range": "68",
+      "encounter": "1d3 vampire spawn"
+    },
+    {
+      "range": "69",
+      "encounter": "1d4 hook horrors or 1d4 minotaurs"
+    },
+    {
+      "range": "70",
+      "encounter": "3d6 quaggoth spore servants"
+    },
+    {
+      "range": "71–72",
+      "encounter": "1d3 grells"
+    },
+    {
+      "range": "73",
+      "encounter": "1d6 + 1 intellect devourers"
+    },
+    {
+      "range": "74",
+      "encounter": "1d10 gargoyles"
+    },
+    {
+      "range": "75",
+      "encounter": "1 beholder zombie"
+    },
+    {
+      "range": "76–77",
+      "encounter": "1 quaggoth thonot with 2d4 quaggoths"
+    },
+    {
+      "range": "78",
+      "encounter": "1d6 ettins or 1d4 trolls"
+    },
+    {
+      "range": "79",
+      "encounter": "1d8 + 1 phase spiders"
+    },
+    {
+      "range": "80",
+      "encounter": "1 fomorian or 1d3 cyclopes"
+    },
+    {
+      "range": "81",
+      "encounter": "1d4 earth elementals"
+    },
+    {
+      "range": "82",
+      "encounter": "3d6 ogres"
+    },
+    {
+      "range": "83",
+      "encounter": "1d4 + 1 chuuls"
+    },
+    {
+      "range": "84",
+      "encounter": "1d10 hell hounds"
+    },
+    {
+      "range": "85",
+      "encounter": "1d3 drow elite warriors"
+    },
+    {
+      "range": "86",
+      "encounter": "1d4 chimeras"
+    },
+    {
+      "range": "87",
+      "encounter": "1d4 salamanders"
+    },
+    {
+      "range": "88",
+      "encounter": "1 cloaker"
+    },
+    {
+      "range": "89",
+      "encounter": "2d4 wights"
+    },
+    {
+      "range": "90",
+      "encounter": "1d4 driders"
+    },
+    {
+      "range": "91",
+      "encounter": "1 fire giant"
+    },
+    {
+      "range": "92",
+      "encounter": "1 grick alpha with 2d4 gricks"
+    },
+    {
+      "range": "93",
+      "encounter": "1 mind flayer arcanist"
+    },
+    {
+      "range": "94",
+      "encounter": "1d4 drow mages"
+    },
+    {
+      "range": "95",
+      "encounter": "1 spirit naga"
+    },
+    {
+      "range": "96",
+      "encounter": "1d4 mind flayers"
+    },
+    {
+      "range": "97",
+      "encounter": "1 behir"
+    },
+    {
+      "range": "98",
+      "encounter": "1 aboleth"
+    },
+    {
+      "range": "99",
+      "encounter": "1 dao or 1 stone giant"
+    },
+    {
+      "range": "00",
+      "encounter": "1 beholder"
+    }
+  ],
+  "Underdark Encounters (Levels 11–16)": [
+    {
+      "range": "01–02",
+      "encounter": "3d6 carrion crawlers"
+    },
+    {
+      "range": "03–04",
+      "encounter": "1d6 + 1 gelatinous cubes"
+    },
+    {
+      "range": "05–06",
+      "encounter": "1d8 + 2 gibbering mouthers"
+    },
+    {
+      "range": "07–08",
+      "encounter": "2d8 minotaur skeletons"
+    },
+    {
+      "range": "09–10",
+      "encounter": "2d6 ochre jellies"
+    },
+    {
+      "range": "11–12",
+      "encounter": "2d4 doppelgangers"
+    },
+    {
+      "range": "13–14",
+      "encounter": "1d4 quaggoth thonots with 1d10 + 2 quaggoths"
+    },
+    {
+      "range": "15–16",
+      "encounter": "1d3 ropers"
+    },
+    {
+      "range": "17–18",
+      "encounter": "3d6 gargoyles"
+    },
+    {
+      "range": "19–20",
+      "encounter": "1d10 mimics"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A 100-foot-long ravine, 4d10 feet wide and 5d20 + 200 feet deep"
+    },
+    {
+      "range": "26–27",
+      "encounter": "1 hobgoblin captain with 3d10 hobgoblins"
+    },
+    {
+      "range": "28–29",
+      "encounter": "2d4 spectators"
+    },
+    {
+      "range": "30–31",
+      "encounter": "3d6 ghasts"
+    },
+    {
+      "range": "32–33",
+      "encounter": "2d8 intellect devourers"
+    },
+    {
+      "range": "34–35",
+      "encounter": "1d3 Orc Eye of Gruumsh with 2d4 orogs and 2d10 orcs"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A large cave containing 2d10 extraordinarily detailed statues of various creatures"
+    },
+    {
+      "range": "41–42",
+      "encounter": "1d8 + 1 kuo-toa monitors"
+    },
+    {
+      "range": "43–44",
+      "encounter": "2d4 water weirds"
+    },
+    {
+      "range": "45–46",
+      "encounter": "2d10 gricks"
+    },
+    {
+      "range": "47–48",
+      "encounter": "3d6 nothics"
+    },
+    {
+      "range": "49–50",
+      "encounter": "2d8 + 1 ogres"
+    },
+    {
+      "range": "51–52",
+      "encounter": "1d6 + 2 chuuls"
+    },
+    {
+      "range": "53–54",
+      "encounter": "1d8 + 1 ettins"
+    },
+    {
+      "range": "55",
+      "encounter": "3d6 grells"
+    },
+    {
+      "range": "56",
+      "encounter": "2d4 flameskulls"
+    },
+    {
+      "range": "57",
+      "encounter": "2d12 dwarf soldiers (veterans) on patrol"
+    },
+    {
+      "range": "58",
+      "encounter": "2d8 hell hounds"
+    },
+    {
+      "range": "59",
+      "encounter": "1d10 ghosts"
+    },
+    {
+      "range": "60",
+      "encounter": "3d4 wights"
+    },
+    {
+      "range": "61",
+      "encounter": "3d6 phase spiders"
+    },
+    {
+      "range": "62",
+      "encounter": "1d8 + 1 bone nagas"
+    },
+    {
+      "range": "63–65",
+      "encounter": "A shrill scream followed by dark laughter"
+    },
+    {
+      "range": "66",
+      "encounter": "1d4 chimeras"
+    },
+    {
+      "range": "67",
+      "encounter": "1d10 black puddings"
+    },
+    {
+      "range": "68",
+      "encounter": "3d6 minotaurs"
+    },
+    {
+      "range": "69",
+      "encounter": "2d4 otyughs"
+    },
+    {
+      "range": "70",
+      "encounter": "1d6 + 1 beholder zombies"
+    },
+    {
+      "range": "71",
+      "encounter": "4d4 hook horrors"
+    },
+    {
+      "range": "72",
+      "encounter": "1d8 + 1 umber hulks"
+    },
+    {
+      "range": "73",
+      "encounter": "2d4 salamanders"
+    },
+    {
+      "range": "74",
+      "encounter": "1d3 grick alphas"
+    },
+    {
+      "range": "75",
+      "encounter": "1d6 + 2 xorn"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A ruined village that once belonged to deep gnomes. A search has a 50% chance of uncovering 1d3 potions of healing and a 25% chance of finding a random common magic item."
+    },
+    {
+      "range": "81",
+      "encounter": "2d4 earth elementals"
+    },
+    {
+      "range": "82",
+      "encounter": "1d3 spirit nagas"
+    },
+    {
+      "range": "83",
+      "encounter": "1d8 + 1 cyclopes"
+    },
+    {
+      "range": "84",
+      "encounter": "1d6 + 2 trolls"
+    },
+    {
+      "range": "85",
+      "encounter": "2d4 stone giants"
+    },
+    {
+      "range": "86",
+      "encounter": "2d4 wraiths"
+    },
+    {
+      "range": "87",
+      "encounter": "1d4 fomorians"
+    },
+    {
+      "range": "88",
+      "encounter": "1d3 drow mages with 1d4 drow elite warriors"
+    },
+    {
+      "range": "89",
+      "encounter": "1d10 vampire spawn"
+    },
+    {
+      "range": "90",
+      "encounter": "1d3 cloakers"
+    },
+    {
+      "range": "91",
+      "encounter": "1d4 fire giants"
+    },
+    {
+      "range": "92",
+      "encounter": "1 mind flayer arcanist with 1d6 + 1 mind flayers"
+    },
+    {
+      "range": "93",
+      "encounter": "1d4 dao"
+    },
+    {
+      "range": "94",
+      "encounter": "1d8 + 1 driders"
+    },
+    {
+      "range": "95",
+      "encounter": "1d3 behirs"
+    },
+    {
+      "range": "96",
+      "encounter": "1d4 aboleths"
+    },
+    {
+      "range": "97",
+      "encounter": "1 beholder"
+    },
+    {
+      "range": "98",
+      "encounter": "1 young red shadow dragon"
+    },
+    {
+      "range": "99",
+      "encounter": "1 death tyrant"
+    },
+    {
+      "range": "00",
+      "encounter": "1 purple worm"
+    }
+  ],
+  "Underdark Encounters (Levels 17–20)": [
+    {
+      "range": "01",
+      "encounter": "1d4 grick alphas"
+    },
+    {
+      "range": "02",
+      "encounter": "2d8 spectators"
+    },
+    {
+      "range": "03–04",
+      "encounter": "3d6 minotaurs or 2d8 kuo-toa monitors"
+    },
+    {
+      "range": "05–06",
+      "encounter": "2d8 grells"
+    },
+    {
+      "range": "07–08",
+      "encounter": "2d10 phase spiders"
+    },
+    {
+      "range": "09–10",
+      "encounter": "4d4 hell hounds"
+    },
+    {
+      "range": "11–12",
+      "encounter": "1d6 + 2 ropers"
+    },
+    {
+      "range": "13–14",
+      "encounter": "2d10 wights"
+    },
+    {
+      "range": "15–16",
+      "encounter": "3d6 doppelgangers"
+    },
+    {
+      "range": "17–18",
+      "encounter": "1d8 + 1 chimeras"
+    },
+    {
+      "range": "19–20",
+      "encounter": "1d4 cloakers"
+    },
+    {
+      "range": "21",
+      "encounter": "1d4 hobgoblin captains with 5d10 hobgoblins"
+    },
+    {
+      "range": "22–23",
+      "encounter": "1d8 + 1 earth elementals"
+    },
+    {
+      "range": "24–25",
+      "encounter": "2d4 vampire spawn"
+    },
+    {
+      "range": "26–27",
+      "encounter": "3d6 minotaurs"
+    },
+    {
+      "range": "28–30",
+      "encounter": "A 30-foot-tall inverted black pyramid floating 1 inch above the floor in a large cave"
+    },
+    {
+      "range": "31–32",
+      "encounter": "1d10 beholder zombies"
+    },
+    {
+      "range": "33–34",
+      "encounter": "1d4 mind flayer arcanists"
+    },
+    {
+      "range": "35–36",
+      "encounter": "1d6 + 2 otyughs"
+    },
+    {
+      "range": "37–38",
+      "encounter": "1d12 trolls"
+    },
+    {
+      "range": "39–40",
+      "encounter": "1d10 wraiths"
+    },
+    {
+      "range": "41–43",
+      "encounter": "A beautiful obsidian sculpture of a panther lying on the floor"
+    },
+    {
+      "range": "44–45",
+      "encounter": "1d4 drow mages with 1d6 drow elite warriors"
+    },
+    {
+      "range": "46–47",
+      "encounter": "1d4 spirit nagas"
+    },
+    {
+      "range": "48–49",
+      "encounter": "1d8 + 1 salamanders"
+    },
+    {
+      "range": "50–51",
+      "encounter": "2d4 umber hulks"
+    },
+    {
+      "range": "52–53",
+      "encounter": "1d10 xorn"
+    },
+    {
+      "range": "54–56",
+      "encounter": "1 young red shadow dragon"
+    },
+    {
+      "range": "57–59",
+      "encounter": "2d4 fomorians"
+    },
+    {
+      "range": "60–62",
+      "encounter": "1d8 + 1 driders"
+    },
+    {
+      "range": "63–65",
+      "encounter": "1d20 + 20 spiders crawling on the walls of a web-filled cave"
+    },
+    {
+      "range": "66–68",
+      "encounter": "1d4 fire giants"
+    },
+    {
+      "range": "69–70",
+      "encounter": "1d10 mind flayers"
+    },
+    {
+      "range": "71–73",
+      "encounter": "2d4 stone giants"
+    },
+    {
+      "range": "74–76",
+      "encounter": "1d12 cyclopes"
+    },
+    {
+      "range": "77–80",
+      "encounter": "A large cave in which stands a 50-foot-tall idol of Blibdoolpoolp"
+    },
+    {
+      "range": "81–85",
+      "encounter": "1d3 dao"
+    },
+    {
+      "range": "86–90",
+      "encounter": "1d4 beholders"
+    },
+    {
+      "range": "91–93",
+      "encounter": "1d4 behirs"
+    },
+    {
+      "range": "94–96",
+      "encounter": "1 death tyrant"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1d3 purple worms"
+    },
+    {
+      "range": "00",
+      "encounter": "2d4 aboleths"
+    }
+  ],
+  "Underwater Encounters (Levels 1–4)": [
+    {
+      "range": "01–10",
+      "encounter": "3d6 quippers"
+    },
+    {
+      "range": "11–14",
+      "encounter": "2d4 steam mephits"
+    },
+    {
+      "range": "15–18",
+      "encounter": "1d4 sahuagin"
+    },
+    {
+      "range": "19–22",
+      "encounter": "2d6 merfolk"
+    },
+    {
+      "range": "23–25",
+      "encounter": "2d4 corpses of drowned sailors tangled in kelp"
+    },
+    {
+      "range": "26–29",
+      "encounter": "2d4 constrictor snakes"
+    },
+    {
+      "range": "30–33",
+      "encounter": "1d4 reef sharks"
+    },
+    {
+      "range": "34–37",
+      "encounter": "1 swarm of quippers"
+    },
+    {
+      "range": "38–40",
+      "encounter": "A bed of enormous clams"
+    },
+    {
+      "range": "41–45",
+      "encounter": "1d10 merfolk with 1d3 giant sea horses"
+    },
+    {
+      "range": "46–50",
+      "encounter": "1 giant octopus"
+    },
+    {
+      "range": "51–55",
+      "encounter": "1 merrow"
+    },
+    {
+      "range": "56–60",
+      "encounter": "1 plesiosaurus"
+    },
+    {
+      "range": "61–65",
+      "encounter": "2d10 pieces of corroded brass dinnerware littering the bottom"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1 giant constrictor snake"
+    },
+    {
+      "range": "71–75",
+      "encounter": "1 sea hag"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A school of silvery fish darting through the water"
+    },
+    {
+      "range": "81–85",
+      "encounter": "1d4 hunter sharks"
+    },
+    {
+      "range": "86–90",
+      "encounter": "1 sahuagin priestess with 2d4 sahuagin"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1d4 killer whales"
+    },
+    {
+      "range": "97–98",
+      "encounter": "1 giant shark"
+    },
+    {
+      "range": "99",
+      "encounter": "1 water elemental"
+    },
+    {
+      "range": "00",
+      "encounter": "1 sahuagin baron"
+    }
+  ],
+  "Underwater Encounters (Levels 5–10)": [
+    {
+      "range": "01–02",
+      "encounter": "3d6 steam mephits"
+    },
+    {
+      "range": "03–04",
+      "encounter": "1d10 sahuagin"
+    },
+    {
+      "range": "05–06",
+      "encounter": "1 giant octopus"
+    },
+    {
+      "range": "07–08",
+      "encounter": "3d6 constrictor snakes"
+    },
+    {
+      "range": "09–10",
+      "encounter": "2d10 merfolk with 1d4 giant sea horses"
+    },
+    {
+      "range": "11–15",
+      "encounter": "1d4 sea hags"
+    },
+    {
+      "range": "16–20",
+      "encounter": "2d4 swarms of quippers"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A sunken galleon with a 50% chance of a random treasure hoard inside (roll on the Treasure Hoard: Challenge 5–10 table in chapter 7 of the Dungeon Master’s Guide)"
+    },
+    {
+      "range": "26–30",
+      "encounter": "1d4 plesiosauruses"
+    },
+    {
+      "range": "31–35",
+      "encounter": "3d6 reef sharks"
+    },
+    {
+      "range": "36–40",
+      "encounter": "An abandoned bathysphere"
+    },
+    {
+      "range": "41–50",
+      "encounter": "1d4 giant constrictor snakes"
+    },
+    {
+      "range": "51–55",
+      "encounter": "2d4 hunter sharks"
+    },
+    {
+      "range": "56–60",
+      "encounter": "1d3 sahuagin priestesses with 2d10 sahuagin"
+    },
+    {
+      "range": "61–65",
+      "encounter": "An empty castle made from coral"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1d4 killer whales"
+    },
+    {
+      "range": "71–75",
+      "encounter": "1d10 merrow"
+    },
+    {
+      "range": "76–80",
+      "encounter": "An eerie statue of a squatting humanoid, with bat wings on its back and tentacles sprouting from its face"
+    },
+    {
+      "range": "81–85",
+      "encounter": "1d4 water elementals"
+    },
+    {
+      "range": "86–90",
+      "encounter": "1 sahuagin baron with 2d8 sahuagin"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1d4 giant sharks"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1 marid"
+    },
+    {
+      "range": "00",
+      "encounter": "1 storm giant"
+    }
+  ],
+  "Underwater Encounters (Levels 11–20)": [
+    {
+      "range": "01–10",
+      "encounter": "1 sahuagin baron with 1d4 sahuagin priestesses and 2d10 sahuagin"
+    },
+    {
+      "range": "11–35",
+      "encounter": "1d10 killer whales"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A ghost ship passing overhead, containing 2d6 + 10 ghosts"
+    },
+    {
+      "range": "41–60",
+      "encounter": "1d6 giant sharks"
+    },
+    {
+      "range": "61–65",
+      "encounter": "A 1-mile-radius sphere of effervescent water that allows air-breathing creatures to breathe water while in the sphere"
+    },
+    {
+      "range": "66–75",
+      "encounter": "1d10 water elementals"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A shimmering, blue-green portal to the Elemental Plane of Water"
+    },
+    {
+      "range": "81–90",
+      "encounter": "1d4 marids"
+    },
+    {
+      "range": "91–96",
+      "encounter": "1d3 storm giants"
+    },
+    {
+      "range": "97–99",
+      "encounter": "1 dragon turtle"
+    },
+    {
+      "range": "00",
+      "encounter": "1 kraken"
+    }
+  ],
+  "Urban Encounters (Levels 1–4)": [
+    {
+      "range": "01",
+      "encounter": "1d6 cats"
+    },
+    {
+      "range": "02–03",
+      "encounter": "1 commoner with 1d6 goats"
+    },
+    {
+      "range": "04–05",
+      "encounter": "2d10 rats"
+    },
+    {
+      "range": "06",
+      "encounter": "1 raven perched on a signpost"
+    },
+    {
+      "range": "07",
+      "encounter": "1 commoner on a draft horse"
+    },
+    {
+      "range": "08",
+      "encounter": "2d4 mastiffs"
+    },
+    {
+      "range": "09",
+      "encounter": "1d2 commoners leading 1d4 mules or 1d4 ponies"
+    },
+    {
+      "range": "10",
+      "encounter": "1 pseudodragon"
+    },
+    {
+      "range": "11",
+      "encounter": "1 spy"
+    },
+    {
+      "range": "12–13",
+      "encounter": "1d8 + 1 acolytes"
+    },
+    {
+      "range": "14",
+      "encounter": "1d6 + 6 flying snakes"
+    },
+    {
+      "range": "15",
+      "encounter": "3d6 kobolds"
+    },
+    {
+      "range": "16",
+      "encounter": "2d4 giant centipedes"
+    },
+    {
+      "range": "17",
+      "encounter": "1d8 + 1 skeletons"
+    },
+    {
+      "range": "18–19",
+      "encounter": "1d6 + 2 swarms of rats"
+    },
+    {
+      "range": "20",
+      "encounter": "1d12 zombies"
+    },
+    {
+      "range": "21–25",
+      "encounter": "A peddler weighed down with a load of pots, pans, and other basic supplies"
+    },
+    {
+      "range": "26",
+      "encounter": "1 giant wasp"
+    },
+    {
+      "range": "27–28",
+      "encounter": "1 warhorse"
+    },
+    {
+      "range": "29",
+      "encounter": "2d8 cultists"
+    },
+    {
+      "range": "30–31",
+      "encounter": "3d4 giant rats"
+    },
+    {
+      "range": "32",
+      "encounter": "2d8 stirges"
+    },
+    {
+      "range": "33",
+      "encounter": "1d3 + 2 giant poisonous snakes"
+    },
+    {
+      "range": "34",
+      "encounter": "1d4 + 2 swarms of bats"
+    },
+    {
+      "range": "35",
+      "encounter": "2d4 winged kobolds"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A wagon loaded with apples that has a broken wheel and holds up traffic"
+    },
+    {
+      "range": "41",
+      "encounter": "1 crocodile"
+    },
+    {
+      "range": "42–43",
+      "encounter": "1 swarm of insects"
+    },
+    {
+      "range": "44–45",
+      "encounter": "3d6 bandits"
+    },
+    {
+      "range": "46–47",
+      "encounter": "1d3 + 2 nobles on riding horses with an escort of 1d10 guards"
+    },
+    {
+      "range": "48",
+      "encounter": "2d4 kenku"
+    },
+    {
+      "range": "49",
+      "encounter": "1d6 + 2 smoke mephits"
+    },
+    {
+      "range": "50",
+      "encounter": "1d8 + 1 swarms of ravens"
+    },
+    {
+      "range": "51–52",
+      "encounter": "1 wererat"
+    },
+    {
+      "range": "53–54",
+      "encounter": "1d3 half-ogres"
+    },
+    {
+      "range": "55–56",
+      "encounter": "1 mimic"
+    },
+    {
+      "range": "57–58",
+      "encounter": "1d4 ghouls"
+    },
+    {
+      "range": "59–60",
+      "encounter": "1d4 specters"
+    },
+    {
+      "range": "61–62",
+      "encounter": "1d10 shadows"
+    },
+    {
+      "range": "63–65",
+      "encounter": "Someone empties a chamber pot onto the street from a second-floor window"
+    },
+    {
+      "range": "66–67",
+      "encounter": "1 ghast"
+    },
+    {
+      "range": "68–69",
+      "encounter": "1 priest"
+    },
+    {
+      "range": "70–71",
+      "encounter": "1 will-o'-wisp"
+    },
+    {
+      "range": "72–73",
+      "encounter": "1d3 giant spiders"
+    },
+    {
+      "range": "74–75",
+      "encounter": "1d4 yuan-ti purebloods"
+    },
+    {
+      "range": "76–77",
+      "encounter": "2d4 thugs"
+    },
+    {
+      "range": "78–80",
+      "encounter": "A doomsayer who preaches the end of the world from a street corner"
+    },
+    {
+      "range": "81",
+      "encounter": "1 cambion"
+    },
+    {
+      "range": "82",
+      "encounter": "1 vampire spawn"
+    },
+    {
+      "range": "83",
+      "encounter": "1 couatl"
+    },
+    {
+      "range": "84",
+      "encounter": "1 ghost"
+    },
+    {
+      "range": "85",
+      "encounter": "1 succubus or 1 incubus"
+    },
+    {
+      "range": "86",
+      "encounter": "1 bandit captain with 3d6 bandits"
+    },
+    {
+      "range": "87",
+      "encounter": "1d4 + 1 cult fanatics"
+    },
+    {
+      "range": "88",
+      "encounter": "1 knight or 1 veteran"
+    },
+    {
+      "range": "89",
+      "encounter": "1 water weird"
+    },
+    {
+      "range": "90",
+      "encounter": "1 wight"
+    },
+    {
+      "range": "91",
+      "encounter": "1 mage"
+    },
+    {
+      "range": "92",
+      "encounter": "1 shield guardian"
+    },
+    {
+      "range": "93",
+      "encounter": "1 gladiator"
+    },
+    {
+      "range": "94",
+      "encounter": "1 revenant"
+    },
+    {
+      "range": "95",
+      "encounter": "2d4 gargoyles"
+    },
+    {
+      "range": "96",
+      "encounter": "1d4 doppelgangers"
+    },
+    {
+      "range": "97",
+      "encounter": "1 oni"
+    },
+    {
+      "range": "98",
+      "encounter": "1 invisible stalker"
+    },
+    {
+      "range": "99",
+      "encounter": "1d8 + 1 phase spiders"
+    },
+    {
+      "range": "00",
+      "encounter": "1 assassin"
+    }
+  ],
+  "Urban Encounters (Levels 5–10)": [
+    {
+      "range": "01–02",
+      "encounter": "1d10 kenku"
+    },
+    {
+      "range": "03–04",
+      "encounter": "2d6 giant centipedes"
+    },
+    {
+      "range": "05–06",
+      "encounter": "2d8 skeletons"
+    },
+    {
+      "range": "07–08",
+      "encounter": "1d6 swarms of bats and 1d6 swarms of rats"
+    },
+    {
+      "range": "09–10",
+      "encounter": "3d6 winged kobolds"
+    },
+    {
+      "range": "11–13",
+      "encounter": "2d4 specters"
+    },
+    {
+      "range": "14–16",
+      "encounter": "1d4 wights"
+    },
+    {
+      "range": "17–19",
+      "encounter": "4d4 acolytes on draft horses"
+    },
+    {
+      "range": "20–22",
+      "encounter": "3d6 giant centipedes"
+    },
+    {
+      "range": "23–25",
+      "encounter": "A talkative urchin, badgering passersby to serve as their guide through the community for a price of 1 sp"
+    },
+    {
+      "range": "26–28",
+      "encounter": "1d10 spies"
+    },
+    {
+      "range": "29–31",
+      "encounter": "3d6 crocodiles"
+    },
+    {
+      "range": "32–34",
+      "encounter": "1d6 + 2 swarms of insects"
+    },
+    {
+      "range": "35–37",
+      "encounter": "2d4 smoke mephits"
+    },
+    {
+      "range": "38–40",
+      "encounter": "A noble shouts “Stop! Thief!” at a fleeing scoundrel (bandit)"
+    },
+    {
+      "range": "41–43",
+      "encounter": "1 succubus or 1 incubus"
+    },
+    {
+      "range": "44–46",
+      "encounter": "1d10 half-ogres"
+    },
+    {
+      "range": "47–49",
+      "encounter": "2d10 giant wasps"
+    },
+    {
+      "range": "50–51",
+      "encounter": "4d10 zombies"
+    },
+    {
+      "range": "52–53",
+      "encounter": "1d4 knights on warhorses"
+    },
+    {
+      "range": "54–55",
+      "encounter": "1d4 + 1 water weirds"
+    },
+    {
+      "range": "56–57",
+      "encounter": "1d8 + 1 mimics"
+    },
+    {
+      "range": "58–59",
+      "encounter": "2d8 giant spiders"
+    },
+    {
+      "range": "60–61",
+      "encounter": "3d6 shadows"
+    },
+    {
+      "range": "62–65",
+      "encounter": "An actor leans out from a second-story window to call to passersby, announcing a show"
+    },
+    {
+      "range": "66–67",
+      "encounter": "1 bandit captain with 3d8 bandits"
+    },
+    {
+      "range": "68–69",
+      "encounter": "1d10 will-o'-wisps"
+    },
+    {
+      "range": "70–71",
+      "encounter": "2d4 priests"
+    },
+    {
+      "range": "72–74",
+      "encounter": "3d6 yuan-ti purebloods"
+    },
+    {
+      "range": "75–76",
+      "encounter": "2d10 thugs"
+    },
+    {
+      "range": "77–80",
+      "encounter": "A fortune-teller reads cards for those who pay a price of 1 sp"
+    },
+    {
+      "range": "81",
+      "encounter": "1d3 gladiators"
+    },
+    {
+      "range": "82",
+      "encounter": "1d4 + 1 couatls"
+    },
+    {
+      "range": "83",
+      "encounter": "1d8 ghosts"
+    },
+    {
+      "range": "84",
+      "encounter": "2d4 doppelgangers"
+    },
+    {
+      "range": "85",
+      "encounter": "1d6 +2 phase spiders"
+    },
+    {
+      "range": "86",
+      "encounter": "2d4 veterans"
+    },
+    {
+      "range": "87",
+      "encounter": "1d8 ghasts with 2d6 ghouls"
+    },
+    {
+      "range": "88",
+      "encounter": "3d6 gargoyles"
+    },
+    {
+      "range": "89",
+      "encounter": "2d10 cult fanatics"
+    },
+    {
+      "range": "90",
+      "encounter": "3d6 wererats"
+    },
+    {
+      "range": "91",
+      "encounter": "1 assassin"
+    },
+    {
+      "range": "92",
+      "encounter": "1d3 invisible stalkers"
+    },
+    {
+      "range": "93",
+      "encounter": "1 gray slaad"
+    },
+    {
+      "range": "94",
+      "encounter": "1 young silver dragon"
+    },
+    {
+      "range": "95",
+      "encounter": "1d4 cambions or 1d4 revenants"
+    },
+    {
+      "range": "96",
+      "encounter": "3d6 wights"
+    },
+    {
+      "range": "97",
+      "encounter": "1 archmage"
+    },
+    {
+      "range": "98",
+      "encounter": "2d4 vampire spawn or 1d4 oni"
+    },
+    {
+      "range": "99",
+      "encounter": "1 mage with 1 shield guardian"
+    },
+    {
+      "range": "00",
+      "encounter": "1 rakshasa or 1 vampire"
+    }
+  ],
+  "Urban Encounters (Levels 11–16)": [
+    {
+      "range": "01",
+      "encounter": "1 mimic"
+    },
+    {
+      "range": "02–05",
+      "encounter": "1 bandit captain with 5d10 bandits, all on riding horses"
+    },
+    {
+      "range": "06–10",
+      "encounter": "1d10 knights on warhorses (one knight is a doppelganger)"
+    },
+    {
+      "range": "11–13",
+      "encounter": "1d8 succubi or 1d8 incubi"
+    },
+    {
+      "range": "14–16",
+      "encounter": "3d6 cult fanatics"
+    },
+    {
+      "range": "17–19",
+      "encounter": "1d10 wights"
+    },
+    {
+      "range": "20–22",
+      "encounter": "3d6 wererats"
+    },
+    {
+      "range": "23–25",
+      "encounter": "A distant boom followed by a plume of smoke rising from the other side of the community"
+    },
+    {
+      "range": "26–28",
+      "encounter": "1d8 + 1 ghosts"
+    },
+    {
+      "range": "29–31",
+      "encounter": "2d10 gargoyles"
+    },
+    {
+      "range": "32–34",
+      "encounter": "1d6 + 2 water weirds"
+    },
+    {
+      "range": "35–37",
+      "encounter": "1d4 + 4 will-o'-wisps"
+    },
+    {
+      "range": "38–40",
+      "encounter": "Street performers putting on a puppet show, involving two puppets beating each other with sticks to the amusement of the gathered crowd"
+    },
+    {
+      "range": "41–43",
+      "encounter": "2d4 couatls"
+    },
+    {
+      "range": "44–46",
+      "encounter": "2d8 ghasts"
+    },
+    {
+      "range": "47–51",
+      "encounter": "1d8 + 1 veterans"
+    },
+    {
+      "range": "52–55",
+      "encounter": "3d4 priests"
+    },
+    {
+      "range": "56–58",
+      "encounter": "2d4 cambions"
+    },
+    {
+      "range": "59–61",
+      "encounter": "1d10 revenants"
+    },
+    {
+      "range": "62–65",
+      "encounter": "2d4 phase spiders"
+    },
+    {
+      "range": "66–69",
+      "encounter": "A scruffy commoner that ducks into an alley to make a purchase from a suspicious-looking figure"
+    },
+    {
+      "range": "70–72",
+      "encounter": "1d8 invisible stalkers"
+    },
+    {
+      "range": "73–75",
+      "encounter": "1d8 + 1 gladiators"
+    },
+    {
+      "range": "76–80",
+      "encounter": "Two farmers trading blows over the price of potatoes (50% chance for one farmer to be a retired assassin)"
+    },
+    {
+      "range": "81–82",
+      "encounter": "1d4 young silver dragons"
+    },
+    {
+      "range": "83–84",
+      "encounter": "1d4 assassins"
+    },
+    {
+      "range": "85–86",
+      "encounter": "1d8 oni"
+    },
+    {
+      "range": "87–88",
+      "encounter": "1d4 mages with 1d4 shield guardians"
+    },
+    {
+      "range": "89–90",
+      "encounter": "1d10 vampire spawn"
+    },
+    {
+      "range": "91–92",
+      "encounter": "1 adult silver dragon"
+    },
+    {
+      "range": "93–94",
+      "encounter": "1d4 gray slaadi"
+    },
+    {
+      "range": "95–96",
+      "encounter": "1 spellcaster vampire or 1 warrior vampire"
+    },
+    {
+      "range": "97",
+      "encounter": "1 archmage speeding down the street on a riding horse, blasting 1d4 guards with spells"
+    },
+    {
+      "range": "98",
+      "encounter": "1 rakshasa"
+    },
+    {
+      "range": "99",
+      "encounter": "1 vampire"
+    },
+    {
+      "range": "00",
+      "encounter": "1 ancient silver dragon"
+    }
+  ],
+  "Urban Encounters (Levels 17–20)": [
+    {
+      "range": "01–05",
+      "encounter": "1d10 invisible stalkers"
+    },
+    {
+      "range": "06–10",
+      "encounter": "1d10 revenants"
+    },
+    {
+      "range": "11–14",
+      "encounter": "1d6 + 2 gladiators"
+    },
+    {
+      "range": "15–18",
+      "encounter": "2d4 cambions"
+    },
+    {
+      "range": "19–22",
+      "encounter": "2d6 succubi or 2d6 incubi"
+    },
+    {
+      "range": "23–25",
+      "encounter": "A witch (archmage) who zooms overhead on a broom of flying"
+    },
+    {
+      "range": "26–30",
+      "encounter": "1d4 gray slaadi"
+    },
+    {
+      "range": "31–35",
+      "encounter": "2d8 couatls"
+    },
+    {
+      "range": "36–40",
+      "encounter": "A distraught parent who rushes up to people, begging for help for a child who fell into the sewer"
+    },
+    {
+      "range": "41–45",
+      "encounter": "1d3 young silver dragons"
+    },
+    {
+      "range": "46–50",
+      "encounter": "3d6 ghosts"
+    },
+    {
+      "range": "51–55",
+      "encounter": "1 adult silver dragon"
+    },
+    {
+      "range": "56–60",
+      "encounter": "1d4 mages with 1d4 shield guardians"
+    },
+    {
+      "range": "61–65",
+      "encounter": "An aggressive merchant who hawks wares to passersby, claiming to be the purveyor of the finest silks in all the land"
+    },
+    {
+      "range": "66–70",
+      "encounter": "1 ancient silver dragon"
+    },
+    {
+      "range": "71–75",
+      "encounter": "3d6 vampire spawn"
+    },
+    {
+      "range": "76–80",
+      "encounter": "A patrol of 2d10 guards marching up the street, searching for someone or something"
+    },
+    {
+      "range": "81–85",
+      "encounter": "1d10 assassins"
+    },
+    {
+      "range": "86–90",
+      "encounter": "1d4 + 1 gray slaadi"
+    },
+    {
+      "range": "91–93",
+      "encounter": "1d10 oni"
+    },
+    {
+      "range": "94–96",
+      "encounter": "1 spellcaster vampire or 1 warrior vampire"
+    },
+    {
+      "range": "97",
+      "encounter": "1d4 archmages"
+    },
+    {
+      "range": "98",
+      "encounter": "1d3 rakshasas"
+    },
+    {
+      "range": "99",
+      "encounter": "1d4 vampires"
+    },
+    {
+      "range": "00",
+      "encounter": "1 tarrasque"
+    }
+  ]
+}

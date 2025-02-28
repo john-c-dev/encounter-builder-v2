@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D&D 5E Random Encounter Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>D&D 5E Random Encounter Generator</h1>
+        <div class="form-group">
+            <label for="terrain">Select Terrain:</label>
+            <select id="terrain">
+                <option value="Arctic">Arctic</option>
+                <option value="Coastal">Coastal</option>
+                <option value="Desert">Desert</option>
+                <option value="Forest">Forest</option>
+                <option value="Grassland">Grassland</option>
+                <option value="Hill">Hill</option>
+                <option value="Mountain">Mountain</option>
+                <option value="Swamp">Swamp</option>
+                <option value="Underdark">Underdark</option>
+                <option value="Underwater">Underwater</option>
+                <option value="Urban">Urban</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="level">Level Range:</label>
+            <select id="level">
+                <option value="1-4">Levels 1-4</option>
+                <option value="5-10">Levels 5-10</option>
+                <option value="11-16">Levels 11-16</option>
+                <option value="17-20">Levels 17-20</option>
+            </select>
+        </div>
+        <button onclick="generateEncounter()">Generate Encounter</button>
+        <div id="result" class="result"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
