@@ -10,16 +10,6 @@
   padding: 0;
 }
 
-:root {
-    --primary-color: #2c3e50;
-    --secondary-color: #34495e;
-    --accent-color: #3498db;
-    --background-color: #ecf0f1;
-    --text-color: #2c3e50;
-    --border-radius: 8px;
-    --shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
 body {
   background-color: #121218;
   color: #d0c8b0;
@@ -29,6 +19,7 @@ body {
   padding: 20px;
 }
 
+/* Layout */
 .container {
   max-width: 900px;
   margin: 0 auto;
@@ -78,12 +69,22 @@ h1::after {
   background: linear-gradient(to right, transparent, #7a5030, transparent);
 }
 
-.generator-form {
-    background: white;
-    padding: 2rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin-bottom: 2rem;
+.app-description {
+  text-align: center;
+  font-size: 1.1rem;
+  margin: -15px auto 30px;
+  max-width: 800px;
+  line-height: 1.5;
+  color: #d0c8b0;
+  font-style: italic;
+}
+
+/* Form Elements */
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  margin-bottom: 25px;
 }
 
 .form-group {
@@ -92,25 +93,15 @@ h1::after {
 
 label {
   display: block;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   margin-bottom: 8px;
   color: #c7a55d;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: 0.9rem;
 }
 
-select, input {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: var(--border-radius);
-    background-color: white;
-    font-size: 16px;
-}
-
-select, button {
+select {
   width: 100%;
   padding: 12px;
   border: 1px solid #5a3a20;
@@ -119,9 +110,6 @@ select, button {
   font-family: 'Cinzel', serif;
   border-radius: 4px;
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.5);
-}
-
-select {
   appearance: none;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%23c7a55d' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14L2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
@@ -129,22 +117,26 @@ select {
   padding-right: 30px;
 }
 
-select:focus, button:focus {
-  outline: none;
-  border-color: #c7a55d;
-}
-
 button {
+  width: 100%;
+  padding: 12px;
+  border: none;
   background-color: #5a3a20;
   color: #d0c8b0;
   cursor: pointer;
   font-weight: bold;
+  font-family: 'Cinzel', serif;
+  border-radius: 4px;
   transition: all 0.3s ease;
-  border: none;
   text-transform: uppercase;
   letter-spacing: 1px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   margin-top: 10px;
+}
+
+select:focus, button:focus {
+  outline: none;
+  border-color: #c7a55d;
 }
 
 button:hover {
@@ -158,65 +150,48 @@ button:active {
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.4);
 }
 
-.encounters-container {
-    display: grid;
-    gap: 1rem;
-}
-
 /* Results area */
-#result {
+.result {
   background-color: rgba(28, 28, 36, 0.7);
   border: 1px solid #5a3a20;
   border-radius: 5px;
   padding: 25px;
   margin-top: 30px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-  color: #d0c8b0; /* Ensuring light text on dark background */
+  color: #d0c8b0;
 }
 
-/* Fixing conflicting encounter styles */
+/* Encounter styles */
+.encounter-set {
+  margin-bottom: 30px;
+}
+
+.encounter-set h3 {
+  font-family: 'Metamorphous', serif;
+  color: #e7c57d;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #5a3a20;
+  padding-bottom: 5px;
+}
+
 .encounter {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   padding: 15px;
   border-radius: 5px;
   background-color: rgba(40, 35, 30, 0.6);
   border-left: 3px solid #7a5030;
-  color: #d0c8b0; /* Light text for dark background */
-}
-
-/* Remove conflicting white background encounter styles */
-.encounter-card {
-  background: rgba(28, 25, 23, 0.9);
-  padding: 1.5rem;
-  border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-  border-left: 4px solid #7a5030;
   color: #d0c8b0;
+  animation: fadeIn 0.3s ease-in;
 }
 
-.encounter-card h3 {
-  margin-top: 0;
-  color: #c7a55d; /* Gold for headings */
+.encounter-set .encounter:last-child {
+  margin-bottom: 0;
 }
 
-.encounter-card p {
-  margin: 0.5rem 0;
-}
-
-/* Improving contrast for strong elements */
+/* Emphasis */
 strong {
-  color: #e7c57d; /* Brighter gold for better contrast */
+  color: #e7c57d;
   font-weight: bold;
-}
-
-/* Remove the white background encounter style */
-.result {
-  margin-top: 30px;
-  background-color: rgba(28, 25, 23, 0.8);
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-  color: #d0c8b0;
 }
 
 hr {
@@ -226,43 +201,18 @@ hr {
   margin: 25px 0;
 }
 
-/* Responsive design */
-@media (min-width: 768px) {
-  .form-row {
-    display: flex;
-    gap: 20px;
-  }
-  
-  .form-group {
-    flex: 1;
-  }
-}
-
-@media (min-width: 768px) {
-    .form-row {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 20px;
-    }
-}
-
-/* Animation for new encounters */
-.encounter {
-    animation: fadeIn 0.3s ease-in;
-}
-
+/* Animations */
 @keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(10px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
-/* Animation for the generate button */
 @keyframes pulse {
   0% { box-shadow: 0 0 0 0 rgba(199, 165, 93, 0.4); }
   70% { box-shadow: 0 0 0 10px rgba(199, 165, 93, 0); }
@@ -277,32 +227,13 @@ button#generate:hover {
   animation: none;
 }
 
-.encounter-set {
-  margin-bottom: 30px;
-}
-
-.encounter-set h3 {
-  font-family: 'Metamorphous', serif;
-  color: #e7c57d;
-  margin-bottom: 15px;
-  border-bottom: 1px solid #5a3a20;
-  padding-bottom: 5px;
-}
-
-.encounter-set .encounter {
-  margin-bottom: 15px;
-}
-
-.encounter-set .encounter:last-child {
-  margin-bottom: 0;
-}
-
-.app-description {
-  text-align: center;
-  font-size: 1.1rem;
-  margin: -15px auto 30px;
-  max-width: 800px;
-  line-height: 1.5;
-  color: #d0c8b0;
-  font-style: italic;
+/* Responsive design */
+@media (min-width: 768px) {
+  .form-row {
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .form-group {
+    margin-bottom: 0;
+  }
 }

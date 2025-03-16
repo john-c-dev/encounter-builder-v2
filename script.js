@@ -1,3 +1,11 @@
+/**
+ * D&D 5E Random Encounter Generator
+ * ------------------------------
+ * This script generates random encounters from encounter tables for D&D 5E
+ * based on terrain type and character level range.
+ */
+
+// Constants & Configuration
 const encounterDisposition = {
     "1-3": "Friendly",
     "4-6": "Neutral",
@@ -5,6 +13,12 @@ const encounterDisposition = {
     "10-12": "Hostile"
 };
 
+// Helper Functions
+/**
+ * Determines an NPC's disposition based on a roll
+ * @param {number} roll - A roll between 1-12
+ * @returns {string} The NPC's disposition
+ */
 function getDisposition(roll) {
     if (roll <= 3) return encounterDisposition["1-3"];
     if (roll <= 6) return encounterDisposition["4-6"];
@@ -12,6 +26,11 @@ function getDisposition(roll) {
     return encounterDisposition["10-12"];
 }
 
+/**
+ * Parses a range string from the encounter table (e.g. "01-05" or "00")
+ * @param {string} rangeStr - The range string to parse
+ * @returns {Array} A two-element array with min and max values
+ */
 const parseRange = (rangeStr) => {
     // Normalize different types of dashes to simple hyphen
     rangeStr = rangeStr.replace(/–/g, '-');
@@ -30,6 +49,12 @@ const parseRange = (rangeStr) => {
     return [start, end];
 };
 
+/**
+ * Finds an encounter in the table based on a roll
+ * @param {Array} encounterTable - The table of possible encounters
+ * @param {number} roll - The roll result (1-100)
+ * @returns {Object|null} The encounter object or null if not found
+ */
 const findEncounter = (encounterTable, roll) => {
     // Loop through each entry in the table to find the matching range
     for (const entry of encounterTable) {
@@ -41,7 +66,12 @@ const findEncounter = (encounterTable, roll) => {
     return null; // Return null if no matching range is found
 };
 
-// Function to extract level ranges for a specific terrain
+/**
+ * Gets available level ranges for a specific terrain type
+ * @param {Object} tables - The encounter tables data
+ * @param {string} terrain - The terrain type
+ * @returns {Array} Available level ranges for that terrain
+ */
 function getLevelRangesForTerrain(tables, terrain) {
     const ranges = [];
     const prefix = `${terrain} Encounters (Levels `;
@@ -58,7 +88,41 @@ function getLevelRangesForTerrain(tables, terrain) {
     return ranges;
 }
 
-// Function to update the level dropdown based on selected terrain
+/**
+ * Finds the correct encounter table by name, handling dash normalization issues
+ * @param {Object} tables - All encounter tables
+ * @param {string} tableName - The table name to find
+ * @returns {Array|null} The encounter table or null if not found
+ */
+function findEncounterTable(tables, tableName) {
+    // Try to find the table directly
+    let encounterTable = tables[tableName];
+    
+    // If not found, try normalizing dashes in tableName and keys
+    if (!encounterTable) {
+        console.log("Table not found, trying to normalize dashes");
+        const normalizedTableName = tableName.replace(/-/g, '–'); // Replace hyphens with en-dashes
+        encounterTable = tables[normalizedTableName];
+        
+        if (!encounterTable) {
+            // If still not found, try to find a key that matches after normalization
+            for (const key of Object.keys(tables)) {
+                const normalizedKey = key.replace(/–/g, '-'); // Replace en-dashes with hyphens
+                if (normalizedKey === tableName) {
+                    encounterTable = tables[key];
+                    break;
+                }
+            }
+        }
+    }
+    
+    return encounterTable;
+}
+
+// Core Functionality
+/**
+ * Updates the level range dropdown based on selected terrain
+ */
 async function updateLevelRanges() {
     try {
         const response = await fetch('encounter-table.json');
@@ -80,7 +144,7 @@ async function updateLevelRanges() {
         levelRanges.forEach(range => {
             const option = document.createElement('option');
             option.value = range;
-            option.textContent = range;
+            option.textContent = `Levels ${range}`;
             levelSelect.appendChild(option);
         });
         
@@ -90,6 +154,9 @@ async function updateLevelRanges() {
     }
 }
 
+/**
+ * Generates random encounters based on selected terrain and level
+ */
 async function generateEncounter() {
     try {
         const response = await fetch('encounter-table.json');
@@ -103,30 +170,10 @@ async function generateEncounter() {
         const levelRange = document.getElementById('level').value;
         
         // Construct the table name using the selected level range
-        let tableName = `${terrain} Encounters (Levels ${levelRange})`;
-        
+        const tableName = `${terrain} Encounters (Levels ${levelRange})`;
         console.log(`Looking for table: "${tableName}"`);
         
-        // Try to find the table directly
-        let encounterTable = tables[tableName];
-        
-        // If not found, try normalizing dashes in tableName and keys
-        if (!encounterTable) {
-            console.log("Table not found, trying to normalize dashes");
-            const normalizedTableName = tableName.replace(/-/g, '–'); // Replace hyphens with en-dashes
-            encounterTable = tables[normalizedTableName];
-            
-            if (!encounterTable) {
-                // If still not found, try to find a key that matches after normalization
-                for (const key of Object.keys(tables)) {
-                    const normalizedKey = key.replace(/–/g, '-'); // Replace en-dashes with hyphens
-                    if (normalizedKey === tableName) {
-                        encounterTable = tables[key];
-                        break;
-                    }
-                }
-            }
-        }
+        const encounterTable = findEncounterTable(tables, tableName);
         
         if (!encounterTable) {
             // Log available table names to help with debugging
@@ -182,25 +229,24 @@ async function generateEncounter() {
     }
 }
 
-// Add event listeners once DOM is fully loaded
-document.addEventListener('DOMContentLoaded', function() {
-    // Attach the function to the button click event
+// Event Listeners & Initialization
+document.addEventListener('DOMContentLoaded', () => {
+    // Initialize level ranges for default terrain
+    updateLevelRanges();
+    
+    // Add terrain change event listener to update level ranges
+    const terrainSelect = document.getElementById('terrain');
+    if (terrainSelect) {
+        terrainSelect.addEventListener('change', updateLevelRanges);
+    } else {
+        console.error("Terrain select not found in the document");
+    }
+    
+    // Attach generate function to button
     const generateButton = document.getElementById('generate');
     if (generateButton) {
         generateButton.addEventListener('click', generateEncounter);
     } else {
         console.error("Generate button not found in the document");
-    }
-    
-    // Add terrain change event listener to update level ranges
-    const terrainSelect = document.getElementById('terrain');
-    if (terrainSelect) {
-        // Initialize level ranges for default terrain
-        updateLevelRanges();
-        
-        // Update level ranges when terrain changes
-        terrainSelect.addEventListener('change', updateLevelRanges);
-    } else {
-        console.error("Terrain select not found in the document");
     }
 });
