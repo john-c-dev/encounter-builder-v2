@@ -134,37 +134,47 @@ async function generateEncounter() {
             throw new Error(`Encounter table not found: ${tableName}`);
         }
 
-        const roll1 = Math.floor(Math.random() * 100) + 1;
-        const roll2 = Math.floor(Math.random() * 100) + 1;
-        const disposition1 = Math.floor(Math.random() * 12) + 1;
-        const disposition2 = Math.floor(Math.random() * 12) + 1;
+        // Generate 5 sets of encounters
+        let resultsHTML = '';
         
-        console.log(`Roll 1: ${roll1}, Roll 2: ${roll2}`);
-        
-        const encounter1 = findEncounter(encounterTable, roll1);
-        const encounter2 = findEncounter(encounterTable, roll2);
+        for (let set = 1; set <= 5; set++) {
+            const roll1 = Math.floor(Math.random() * 100) + 1;
+            const roll2 = Math.floor(Math.random() * 100) + 1;
+            const disposition1 = Math.floor(Math.random() * 12) + 1;
+            const disposition2 = Math.floor(Math.random() * 12) + 1;
+            
+            console.log(`Set ${set} - Roll 1: ${roll1}, Roll 2: ${roll2}`);
+            
+            const encounter1 = findEncounter(encounterTable, roll1);
+            const encounter2 = findEncounter(encounterTable, roll2);
 
-        if (!encounter1 || !encounter2) {
-            console.error('Roll 1:', roll1, 'Result:', encounter1);
-            console.error('Roll 2:', roll2, 'Result:', encounter2);
-            throw new Error(`Failed to find encounters for rolls: ${roll1}, ${roll2}`);
+            if (!encounter1 || !encounter2) {
+                console.error(`Set ${set} - Roll 1:`, roll1, 'Result:', encounter1);
+                console.error(`Set ${set} - Roll 2:`, roll2, 'Result:', encounter2);
+                throw new Error(`Failed to find encounters for rolls: ${roll1}, ${roll2}`);
+            }
+
+            resultsHTML += `
+                <div class="encounter-set">
+                    <h3>Encounter Set ${set}</h3>
+                    <div class="encounter">
+                        <strong>Roll 1: ${roll1}</strong><br>
+                        <strong>Range: ${encounter1.range}</strong><br>
+                        <strong>Disposition (${disposition1}): ${getDisposition(disposition1)}</strong><br>
+                        ${encounter1.encounter}
+                    </div>
+                    <div class="encounter">
+                        <strong>Roll 2: ${roll2}</strong><br>
+                        <strong>Range: ${encounter2.range}</strong><br>
+                        <strong>Disposition (${disposition2}): ${getDisposition(disposition2)}</strong><br>
+                        ${encounter2.encounter}
+                    </div>
+                </div>
+                ${set < 5 ? '<hr>' : ''}
+            `;
         }
 
-        document.getElementById('result').innerHTML = `
-            <div class="encounter">
-                <strong>Roll 1: ${roll1}</strong><br>
-                <strong>Range: ${encounter1.range}</strong><br>
-                <strong>Disposition (${disposition1}): ${getDisposition(disposition1)}</strong><br>
-                ${encounter1.encounter}
-            </div>
-            <hr>
-            <div class="encounter">
-                <strong>Roll 2: ${roll2}</strong><br>
-                <strong>Range: ${encounter2.range}</strong><br>
-                <strong>Disposition (${disposition2}): ${getDisposition(disposition2)}</strong><br>
-                ${encounter2.encounter}
-            </div>
-        `;
+        document.getElementById('result').innerHTML = resultsHTML;
 
     } catch (error) {
         console.error('Error generating encounter:', error);
